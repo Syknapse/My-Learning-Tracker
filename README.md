@@ -12,7 +12,25 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:--------:|:---:|:---:|:---:|:---:|:---:|
 |**HTML5**| ![done][done] | ![done][done] | ![done][done] | ![done][done] | |
 |**CSS3**| ![done][done] | ![done][done] | ![done][done] | ![done][done] | |
-|**JavaScript**| ![done][done] | ![done][done] | ![done][done] |  | . |
+|**JavaScript**| ![done][done] | ![done][done] | ![done][done] |  |  |
+|**ES6**| ![done][done] | ![done][done] |  |  |  |
+|**Website Building**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |  |
+|**Responsive design**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |  |
+|**Mobile first**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |  |
+|**Progressive Enhancement**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |  |
+|**Css Grid & Flex-box**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |  |
+|**Github**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |  |
+|**Bootstrap**| ![done][done] | ![done][done] | ![done][done] |  |  |
+|**jQuery**| ![done][done] | ![done][done] | ![done][done] |  |  |
+|**Publishing website**| ![done][done] | ![done][done] | ![done][done] |  |  |
+|**Git/Git bash**| ![done][done] | ![done][done] |  |  |  |
+|**Command line**| ![done][done] | ![done][done] |  |  |  |
+|**Markdown**| ![done][done] | ![done][done] | ![done][done] |  |  |
+|**Node.js**| ![done][done] | ![done][done] |  |  |  |
+|**NPM**| ![done][done] | ![done][done] |  |  |  |
+|**Angular 4**| ![done][done] |  |  |  |  |
+|**Task runners Gulp/Grunt**| ![done][done] |  |  |  |  |
+|**NPM scripts**| ![done][done] |  |  |  | . |
 
 
 ---
@@ -40,7 +58,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 The most interesting of what I'm watching, reading, and doing.
 
-[**Click here for playlists and tweets. Articles, talks, tutorials, and more**](#)
+[**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/)
 
 ---
 
