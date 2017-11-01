@@ -11,8 +11,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 |Skill| 1<br>Introduction | 2<br>Basics | 3<br>Good | 4<br>Pretty Good | 5<br>Awesome |
 |:--------:|:---:|:---:|:---:|:---:|:---:|
 |**HTML5**| ![done][done] | ![done][done] | ![done][done] | ![done][done] | |
-|**HTML5**| ![done][done] | ![done][done] | ![done][done] | ![done][done] | |
-|**HTML5**| ![done][done] | ![done][done] | ![done][done] | ![done][done] | . |
+|**CSS3**| ![done][done] | ![done][done] | ![done][done] | ![done][done] | |
+|**JavaScript**| ![done][done] | ![done][done] | ![done][done] |  | . |
 
 
 ---
