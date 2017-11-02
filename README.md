@@ -2,6 +2,8 @@
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
+[For my full portfolio click here](https://syknapse.github.io/Syk-Houdeib/)
+
 ----
 
 ## Skills
@@ -41,15 +43,18 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |Year|Course|Tutor|
 |:---:|:---:|:---:|
-|2017|[Getting Your Website Online](https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html)|[Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)|
+|2017|[The Web Developer Bootcamp - Frond End](https://www.udemy.com/the-web-developer-bootcamp)| Colt Steele - [Udemy](https://www.udemy.com)|
+|2017|[Basic Front End Development Projects](https://www.freecodecamp.org/syknapse)|[Free Code Camp](https://www.freecodecamp.org)|
 |2017|[Getting Your Website Online](https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html)|[Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)|
 
 ### In progress
 
 |Course|Tutor|
 |:---:|:---:|
+|[The Web Developer Bootcamp - Back End](https://www.udemy.com/the-web-developer-bootcamp)| Colt Steele - [Udemy](https://www.udemy.com)|
 |[Front End Development](https://www.freecodecamp.org/syknapse)|[Free Code Camp](https://www.freecodecamp.org)|
-|[Front End Development](https://www.freecodecamp.org/syknapse)|[Free Code Camp](https://www.freecodecamp.org)|
+|[Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) - Web Developer|[Udacity](https://www.udacity.com)|
+|[JavaScript30](https://javascript30.com/)|[Wes Bos](https://twitter.com/wesbos)|
 
 
 ---
@@ -66,8 +71,10 @@ The most interesting of what I'm watching, reading, and doing.
 
 I'm currently interested in/excited about:
 
-+ item 1
-+ item 2
++ Angular 4
++ CSS Grid
++ Progressive enhancement
++ Task runners
 
 
 
@@ -75,6 +82,16 @@ I'm currently interested in/excited about:
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star. 
 
-You can [follow me on Twitter](https://twitter.com/Syknapse) or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact)
+**You can [follow me on Twitter](https://twitter.com/Syknapse) or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact)**
+
+---
+
+#### Acknowledgments 
+
+This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. 
+
+#### License 
+
+[MIT License](https://github.com/Syknapse/My-Learning-Tracker/blob/master/LICENSE)
 
 
