@@ -1,6 +1,6 @@
 # Table of Contents
 
-# Shortcuts
+# Shortcuts & Commands
 
 ## General
 
