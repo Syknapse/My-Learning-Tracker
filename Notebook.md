@@ -4,7 +4,7 @@
 
 ## General
 
-## Code Editor
+## Text Editor
 
 ## Command Line
 
