@@ -3,6 +3,10 @@
 |Date|Learnt, thoughts, progress, ideas, links|
 |:---:|:---|
 
+## 10 Nov 17
+
+Completed [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial). Great tutorial. 
+
 ## 5 Nov 17
 
 Command line. Worked on [Getting to Know the Command Line](https://www.davidbaumgold.com/tutorials/command-line/) and [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
