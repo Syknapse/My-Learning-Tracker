@@ -5,7 +5,11 @@
 
 ## 15 Nov 17
 
-Completed [CSS Essential Training 2](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html) by [Christina Truong](https://twitter.com/christinatruong). Excellent
+Completed [CSS Essential Training 2](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html) by [Christina Truong](https://twitter.com/christinatruong). Excellent.
+
+Advanced selectors - float & display - positioning - z-index - CSS reset - background & gradients - 
+
+responsive design: mobile first, gracefull degredation, progressive enhancement, fluid, adaptive, media queries, testing responsive, 
 
 ## 10 Nov 17
 
