@@ -3,6 +3,12 @@
 |Date|Learnt, thoughts, progress, ideas, links|
 |:---:|:---|
 
+## 17 Nov 17
+
+Completed [CSS Essential Training 3](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html) by [Christina Truong](https://twitter.com/christinatruong). Excellent.
+
+Grid design - CSS grid and flexbox - retina and high density displays - images - svg - transitions - animations - shapes - responsive and fluid typography - advanced attribute selectors - accessibility - ARIA - style guides - refactoring guide
+
 ## 15 Nov 17
 
 Completed [CSS Essential Training 2](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html) by [Christina Truong](https://twitter.com/christinatruong). Excellent.
