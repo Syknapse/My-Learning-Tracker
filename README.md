@@ -43,10 +43,11 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |Year|Course|Tutor|
 |:---:|:---:|:---:|
-|2017|[The Web Developer Bootcamp - Frond End](https://www.udemy.com/the-web-developer-bootcamp)| Colt Steele - [Udemy](https://www.udemy.com)|
-|2017|[Basic Front End Development Projects](https://www.freecodecamp.org/syknapse)|[Free Code Camp](https://www.freecodecamp.org)|
-|2017|[Getting Your Website Online](https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html)|[Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)|
+|2017|[CSS Essential Training 3](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html)|[Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)|
 |2017|[CSS Essential Training 2](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html)|[Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)|
+|2017|[Getting Your Website Online](https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html)|[Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)|
+|2017|[Basic Front End Development Projects](https://www.freecodecamp.org/syknapse)|[Free Code Camp](https://www.freecodecamp.org)|
+|2017|[The Web Developer Bootcamp - Frond End](https://www.udemy.com/the-web-developer-bootcamp)| Colt Steele - [Udemy](https://www.udemy.com)|
 
 ### In progress
 
@@ -76,6 +77,7 @@ I'm currently interested in/excited about:
 + CSS Grid
 + Progressive enhancement
 + Task runners
++ Command Line and unix commands
 
 
 
