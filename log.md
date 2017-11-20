@@ -3,6 +3,16 @@
 |Date|Learnt, thoughts, progress, ideas, links|
 |:---:|:---|
 
+## 20 Nov 17
+
+completed [Learning Git and GitHub](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html) by [Ray Villalobos](https://twitter.com/planetoftheweb). very good.
+
+Git init - add - commit - staging - deleting - log - branches - states
+
+GitHub cloning - cloning branches - templates 
+
+Gitbash to GitHub push and pull
+
 ## 17 Nov 17
 
 Completed [CSS Essential Training 3](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html) by [Christina Truong](https://twitter.com/christinatruong). Excellent.
