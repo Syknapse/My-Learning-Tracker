@@ -21,12 +21,12 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Mobile first**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |  | |
 |**Progressive Enhancement**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |  | |
 |**Css Grid & Flex-box**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |  | |
-|**Github**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |  | |
+|**GitHub**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |  | |
 |**Bootstrap**| ![done][done] | ![done][done] | ![done][done] |  |  | |
 |**jQuery**| ![done][done] | ![done][done] | ![done][done] |  |  | |
 |**Publishing website**| ![done][done] | ![done][done] | ![done][done] |  |  | |
-|**Git/Git bash**| ![done][done] | ![done][done] |  |  |  | |
-|**Command line**| ![done][done] | ![done][done] |  |  |  | |
+|**Git/Git bash**| ![done][done] | ![done][done] | ![done][done] |  |  | |
+|**Command line**| ![done][done] | ![done][done] | ![done][done] |  |  | |
 |**Markdown**| ![done][done] | ![done][done] | ![done][done] |  |  | |
 |**Node.js**| ![done][done] | ![done][done] |  |  |  | |
 |**NPM**| ![done][done] | ![done][done] |  |  |  | |
@@ -43,6 +43,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |Year|Course|Tutor|
 |:---:|:---:|:---:|
+|2017|[Learning Git and GitHub](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html)|[Ray Villalobos](https://twitter.com/planetoftheweb) - [Lynda.com](https://www.lynda.com/)|
 |2017|[CSS Essential Training 3](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html)|[Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)|
 |2017|[CSS Essential Training 2](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html)|[Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)|
 |2017|[Getting Your Website Online](https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html)|[Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)|
