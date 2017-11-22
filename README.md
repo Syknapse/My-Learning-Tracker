@@ -69,6 +69,11 @@ The most interesting of what I'm watching, reading, and doing.
 
 <kbd> [**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/) </kbd>
 
+And here is a chronological log of the highlights of my learning
+
+<kbd> [**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md
+) </kbd>
+
 ---
 
 ## Interests
