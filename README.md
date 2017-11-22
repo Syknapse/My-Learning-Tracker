@@ -43,6 +43,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |Year|Course|Tutor|
 |:---:|:---:|:---:|
+|2017|[Workflow Tools for Web Developers](https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html)|[Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)|
 |2017|[Learning Git and GitHub](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html)|[Ray Villalobos](https://twitter.com/planetoftheweb) - [Lynda.com](https://www.lynda.com/)|
 |2017|[CSS Essential Training 3](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html)|[Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)|
 |2017|[CSS Essential Training 2](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html)|[Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)|
