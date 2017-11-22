@@ -3,6 +3,12 @@
 |Date|Learnt, thoughts, progress, ideas, links|
 |:---:|:---|
 
+## 22 Nov 17
+
+Completed [Workflow Tools for Web Developers](https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html) by [Christina Truong](https://twitter.com/christinatruong). Very useful. 
+
+Browsers & testing - advanced inspector/console - editor code snippets - CSS preprocessors & compilers - task runners
+
 ## 20 Nov 17
 
 completed [Learning Git and GitHub](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html) by [Ray Villalobos](https://twitter.com/planetoftheweb). very good.
