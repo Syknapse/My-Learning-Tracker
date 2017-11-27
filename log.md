@@ -3,6 +3,10 @@
 |Date|Learnt, thoughts, progress, ideas, links|
 |:---:|:---|
 
+## 27 Nov 17
+
+In the last few days I have learnt the basics of AJAX and some more GIT on Tree House. Also installed VS Code, read documentation and watched tutorial videos and started using it.
+
 ## 22 Nov 17
 
 Completed [Workflow Tools for Web Developers](https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html) by [Christina Truong](https://twitter.com/christinatruong). Very useful. 
