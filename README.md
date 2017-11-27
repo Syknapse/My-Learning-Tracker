@@ -32,7 +32,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**NPM**| ![done][done] | ![done][done] |  |  |  | |
 |**Angular 4**| ![done][done] |  |  |  |  | |
 |**Task runners Gulp/Grunt**| ![done][done] |  |  |  |  | |
-|**NPM scripts**| ![done][done] |  |  |  |  | . |
+|**NPM scripts**| ![done][done] |  |  |  |  |  |
+|**AJAX**| ![done][done] |  |  |  |  | . |
 
 
 ---
