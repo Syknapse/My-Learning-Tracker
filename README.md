@@ -115,7 +115,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [ ] Complete a technical interview
 * [ ] Participate in a hackathon
 * [ ] Deploy a project
-* [ ] Ship your project to a store (App Store, Play Store, Chrome Store, Alexa Skills Store, so many stores!)
+* [ ] Ship your project to a store
 * [ ] Contribute to open source
 * [ ] Get paid to code
 * [ ] When people ask what you do, respond saying you’re a developer :)
