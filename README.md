@@ -111,7 +111,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [ ] Hide API keys from the public
 * [x] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
-* [ ] Speak about something engineering-related at an event
+* [ ] Speak about something web development-related at an event
 * [ ] Complete a technical interview
 * [ ] Participate in a hackathon
 * [ ] Deploy a project
