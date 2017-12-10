@@ -125,7 +125,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star. 
 
-**You can [follow me on Twitter](https://twitter.com/Syknapse) or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact)**
+**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
 
 ---
 
