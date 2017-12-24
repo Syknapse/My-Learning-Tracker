@@ -6,6 +6,7 @@
 ## 24 Dec 17
 
 Spent the last few weeks working on the Udacity's Google Challenge Scholarship course. Then built a [full tutorial](https://github.com/Syknapse/Contribute-To-This-Project) for begginers to make their first contribution on GitHub. Spent a good amount of time improving it and learning more markdown in the process and dealing with the PRs I'm getting (17 contributions so far). Also added a custom JS feature to the [contribution page](https://syknapse.github.io/Contribute-To-This-Project/) that counts the number of contributions and displays the number in a counter with a count up style. 
+
 ![contributions counter](https://user-images.githubusercontent.com/29199184/34326362-caebaf4a-e8aa-11e7-9415-0c88994aa5fc.gif)
 
 ## 27 Nov 17
