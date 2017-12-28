@@ -3,6 +3,9 @@
 |Date|Learnt, thoughts, progress, ideas, links|
 |:---:|:---|
 
+----
+----
+
 ## 28 Dec 17
 
 **#2018Objectives starts today:**
@@ -28,6 +31,9 @@ Take the necessary steps to get my first Web Developer job:
 + Contact people who can help.
 + Prepare for interviews.
 + Learn any necessary additional skills or technologies.
+
+----
+----
 
 ## 24 Dec 17
 
