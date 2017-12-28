@@ -3,6 +3,32 @@
 |Date|Learnt, thoughts, progress, ideas, links|
 |:---:|:---|
 
+## 28 Dec 17
+
+**#2018Objectives starts today:**
+
+### Operation JavaScript:
+
++ Learn and practice JS with the aim of being able to do most basic operations and algorithms.
++ Practice, practice, practice.
++ Start learning React (unless something radically changes the panorama in the next couple of months!)
+
+### Code Everyday
+
++ Commit to coding everyday.
++ This log becomes a daily log to add everything I'm working on and learning.
++ Finish important and relevant courses.
++ Work on self-initiated or collaboration projects to put skills into practice.
+
+### Get a Web Dev Job
+
+Take the necessary steps to get my first Web Developer job:
+
++ Apply for jobs.
++ Contact people who can help.
++ Prepare for interviews.
++ Learn any necessary additional skills or technologies.
+
 ## 24 Dec 17
 
 Spent the last few weeks working on the Udacity's Google Challenge Scholarship course. Then built a [full tutorial](https://github.com/Syknapse/Contribute-To-This-Project) for begginers to make their first contribution on GitHub. Spent a good amount of time improving it and learning more markdown in the process and dealing with the PRs I'm getting (17 contributions so far). Also added a custom JS feature to the [contribution page](https://syknapse.github.io/Contribute-To-This-Project/) that counts the number of contributions and displays the number in a counter with a count up style. 
