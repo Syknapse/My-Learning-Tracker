@@ -59,7 +59,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![In Progress][In Progress] |      | [Front End Development]                                         | [Free Code Camp]                            |
 | ![In Progress][In Progress] |      | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![In Progress][In Progress] |      | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![Soon][Soon]               |      |                                                                 |                                             |
+| ![In Progress][In Progress] |      | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
+| ![Soon][Soon]               |      | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
+| ![Soon][Soon]               |      | [Learn CSS Grid]                                                | [Per Harald Borgen] - [Scrimba]                          |
 
 [//]: # (Reference links to courses)
 
@@ -74,6 +76,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Front End Development]: https://www.freecodecamp.org/syknapse
 [Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
 [JavaScript30]: https://javascript30.com/
+[JavaScript & jQuery]: http://javascriptbook.com/
+[Eloquent JavaScript]: http://eloquentjavascript.net/
+[Learn CSS Grid]: https://scrimba.com/g/gR8PTE
 
 [//]: # (Reference links to tutors)
 
@@ -84,6 +89,31 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Udemy]: https://www.udemy.com
 [Udacity]: https://www.udacity.com
 [Wes Bos]: https://twitter.com/wesbos
+[Marijn Haverbeke]: https://twitter.com/MarijnJH
+[Per Harald Borgen]: https://twitter.com/perborgen
+[Scrimba]: https://scrimba.com/
+
+### Paths
+
+| Paths with multiple resources                             |            Author            |
+|: ---------------------------------------------------------|:----------------------------:|
+| [Best JavaScript books, tutorials, courses & videos]      | [ReactDOM]                   |
+| [Learn to code in 2018]                                   | [Andrei Neagoie]             |
+| [Get Job ready - JavaScript Edition]                      | [P1xt]                       |
+| [Full Stack Web Developer Path]                           | [Shovan Chatterjee]          |
+
+[//]: # (Reference links to paths)
+
+[Best JavaScript books, tutorials, courses & videos]: https://reactdom.com/blog/javascript-books
+[Learn to code in 2018]: https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a
+[Get Job ready - JavaScript Edition]: https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md
+[Full Stack Web Developer Path]: https://github.com/shovanch/fullstack-web-developer-path
+
+[//]: # (Reference links to authors)
+[ReactDOM]: https://reactdom.com
+[Andrei Neagoie]: https://twitter.com/AndreiNeagoie
+[P1xt]: https://github.com/P1xt
+[Shovan Chatterjee]: https://github.com/shovanch
 
 ----
 
