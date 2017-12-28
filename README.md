@@ -8,7 +8,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 ## Skills
 
-[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png
+[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
@@ -40,19 +40,26 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 ## Learning
 
-|     Status    | Year | Course                                                          |                                  Tutor                                                                    |
-|:-------------:|:-----|:----------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------:|
-| ![done][done] | 2017 | [Workflow Tools for Web Developers]                             | [Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)             |
-| ![done][done] | 2017 | [Learning Git and GitHub]                                       | [Ray Villalobos](https://twitter.com/planetoftheweb) - [Lynda.com](https://www.lynda.com/)                |
-| ![done][done] | 2017 | [CSS Essential Training 3]                                      | [Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)             |
-| ![done][done] | 2017 | [CSS Essential Training 2]                                      | [Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)             |
-| ![done][done] | 2017 | [Getting Your Website Online]                                   | [Christina Truong](https://twitter.com/christinatruong) - [Lynda.com](https://www.lynda.com/)             |
-| ![done][done] | 2017 | [Basic Front End Development Projects]                          | [Free Code Camp](https://www.freecodecamp.org)                                                            |
-| ![done][done] | 2017 | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy](https://www.udemy.com)                                                              |
-| In Progress   |      | [The Web Developer Bootcamp - Back End]                         | Colt Steele - [Udemy](https://www.udemy.com)                                                              |
-| In Progress   |      | [Front End Development]                                         | [Free Code Camp](https://www.freecodecamp.org)                                                            |
-| In Progress   |      | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity](https://www.udacity.com)                                                                        |
-| In Progress   |      | [JavaScript30]                                                  | [Wes Bos](https://twitter.com/wesbos)                                                                     |
+[//]: # (Status images)
+
+[Completed]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Completed"
+[In Progress]: https://user-images.githubusercontent.com/29199184/34411560-a5e1bb38-ebd7-11e7-8f22-3b3e12ab4a93.png "In Progress"
+[Soon]: https://user-images.githubusercontent.com/29199184/34411578-c6806e3e-ebd7-11e7-9e9b-994fd27c3b60.png "Soon"
+
+|            Status           | Year | Course                                                          |                Tutor                        |
+|:---------------------------:|:-----|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     | 2017 | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
+| ![Completed][Completed]     | 2017 | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
+| ![Completed][Completed]     | 2017 | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
+| ![Completed][Completed]     | 2017 | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
+| ![Completed][Completed]     | 2017 | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
+| ![Completed][Completed]     | 2017 | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
+| ![Completed][Completed]     | 2017 | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
+| ![In Progress][In Progress] |      | [The Web Developer Bootcamp - Back End]                         | Colt Steele - [Udemy]                       |
+| ![In Progress][In Progress] |      | [Front End Development]                                         | [Free Code Camp]                            |
+| ![In Progress][In Progress] |      | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
+| ![In Progress][In Progress] |      | [JavaScript30]                                                  | [Wes Bos]                                   |
+| ![Soon][Soon]               |      |                                                                 |                                             |
 
 [//]: # (Reference links to courses)
 
@@ -67,6 +74,16 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Front End Development]: https://www.freecodecamp.org/syknapse
 [Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
 [JavaScript30]: https://javascript30.com/
+
+[//]: # (Reference links to tutors)
+
+[Christina Truong]: https://twitter.com/christinatruong
+[Lynda.com]: https://www.lynda.com
+[Ray Villalobos]: https://twitter.com/planetoftheweb
+[Free Code Camp]: https://www.freecodecamp.org
+[Udemy]: https://www.udemy.com
+[Udacity]: https://www.udacity.com
+[Wes Bos]: https://twitter.com/wesbos
 
 ----
 
