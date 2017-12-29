@@ -60,8 +60,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![In Progress][In Progress] |      | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![In Progress][In Progress] |      | [JavaScript30]                                                  | [Wes Bos]                                   |
 | ![In Progress][In Progress] |      | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
+| ![In Progress][In Progress] |      | [Learn CSS Grid]                                                | [Per Harald Borgen] - [Scrimba]                          |
 | ![Soon][Soon]               |      | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
-| ![Soon][Soon]               |      | [Learn CSS Grid]                                                | [Per Harald Borgen] - [Scrimba]                          |
 
 [//]: # (Reference links to courses)
 
