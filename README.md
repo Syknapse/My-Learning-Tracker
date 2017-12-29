@@ -96,7 +96,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 ### Paths
 
 | Paths with multiple resources                             |            Author            |
-|: ---------------------------------------------------------|:----------------------------:|
+|:----------------------------------------------------------|:----------------------------:|
 | [Best JavaScript books, tutorials, courses & videos]      | [ReactDOM]                   |
 | [Learn to code in 2018]                                   | [Andrei Neagoie]             |
 | [Get Job ready - JavaScript Edition]                      | [P1xt]                       |
