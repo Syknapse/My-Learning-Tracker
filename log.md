@@ -1,9 +1,24 @@
 # Learning log
 
-|Date|Learnt, thoughts, progress, ideas, links|
+|Date||
 |:---:|:---|
+||Learnt, thoughts, progress, ideas, links|
 
 ----
+
+## 29 Dec 17
+
+Worked on the **JavaScript** section in the **Udacity Google Scholarship** course: [Functions](https://github.com/Syknapse/Google-Challenge-Scholarship-Front-End-Web-Dev/blob/master/short-exercises/functions.js "Functions practice document") and arrays.<br>
+Managed to solve most of the problems without help. Not easy, but **#OperationJavaScript** is on 💪.
+
+![coding a triangle](https://user-images.githubusercontent.com/29199184/34445183-74d8902e-ecd2-11e7-8505-89f662a2c689.png)
+
+Started on the first two screen casts of **Scrimba's Learn CSS Grid** course. I'm amazed by the platform where you can edit the code right in the screen!
+
+All in all a **good** all-day session.
+
+----
+
 ----
 
 ## 28 Dec 17
@@ -33,6 +48,7 @@ Take the necessary steps to get my first Web Developer job:
 + Learn any necessary additional skills or technologies.
 
 ----
+
 ----
 
 ## 24 Dec 17
