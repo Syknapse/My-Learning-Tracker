@@ -6,6 +6,18 @@
 
 ----
 
+## 30 Dec 17
+
+Continued working on the **Udacity Google Scholarship** course: mainly [arrays](https://github.com/Syknapse/Google-Challenge-Scholarship-Front-End-Web-Dev/blob/master/short-exercises/arrays.js) and [objects](https://github.com/Syknapse/Google-Challenge-Scholarship-Front-End-Web-Dev/blob/master/short-exercises/objects.js).
+
+Since this is not the first time I'm learning some of these concepts I feel I am understanding them on a deeper level, and I feel good about being able to solve most of the exercises with little or no help. Most importantly I feel I can visualise the solution and understand it.<br>
+I was especially amazed to discover how you can create a `method()` inside of an object and call it.
+
+![Nested arrays loops](https://user-images.githubusercontent.com/29199184/34457123-0a10bf88-eda8-11e7-9902-e893ff846726.png "Replace numbers in nested arrays with odd or even")
+
+
+----
+
 ## 29 Dec 17
 
 Worked on the **JavaScript** section in the **Udacity Google Scholarship** course: [Functions](https://github.com/Syknapse/Google-Challenge-Scholarship-Front-End-Web-Dev/blob/master/short-exercises/functions.js "Functions practice document") and arrays.<br>
