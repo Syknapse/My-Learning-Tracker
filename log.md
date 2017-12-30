@@ -4,6 +4,8 @@
 |:---:|:---|
 ||Learnt, thoughts, progress, ideas, links|
 
+[__************** 2018 Objectives **************__](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#28-dec-17)
+
 ----
 
 ## 30 Dec 17
