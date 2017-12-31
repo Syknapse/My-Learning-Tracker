@@ -53,6 +53,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | 2017 | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
 | ![Completed][Completed]     | 2017 | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
 | ![Completed][Completed]     | 2017 | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
+| ![Completed][Completed]     | 2017 | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
 | ![Completed][Completed]     | 2017 | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
 | ![Completed][Completed]     | 2017 | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
 | ![In Progress][In Progress] |      | [The Web Developer Bootcamp - Back End]                         | Colt Steele - [Udemy]                       |
@@ -60,7 +61,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![In Progress][In Progress] |      | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![In Progress][In Progress] |      | [JavaScript30]                                                  | [Wes Bos]                                   |
 | ![In Progress][In Progress] |      | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
-| ![In Progress][In Progress] |      | [Learn CSS Grid]                                                | [Per Harald Borgen] - [Scrimba]                          |
+| ![In Progress][In Progress] |      | [Learn CSS Grid]                                                | [Per Harald Borgen] - [Scrimba]             |
 | ![Soon][Soon]               |      | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
 
 [//]: # (Reference links to courses)
@@ -70,6 +71,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [CSS Essential Training 3]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html
 [CSS Essential Training 2]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html
 [Getting Your Website Online]: https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html
+[Learn Enough Command Line to Be Dangerous]: https://www.learnenough.com/command-line-tutorial
 [Basic Front End Development Projects]: https://www.freecodecamp.org/syknapse
 [The Web Developer Bootcamp - Frond End]: https://www.udemy.com/the-web-developer-bootcamp
 [The Web Developer Bootcamp - Back End]: https://www.udemy.com/the-web-developer-bootcamp
@@ -85,6 +87,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Christina Truong]: https://twitter.com/christinatruong
 [Lynda.com]: https://www.lynda.com
 [Ray Villalobos]: https://twitter.com/planetoftheweb
+[Michael Hartl]: https://twitter.com/mhartl
 [Free Code Camp]: https://www.freecodecamp.org
 [Udemy]: https://www.udemy.com
 [Udacity]: https://www.udacity.com
