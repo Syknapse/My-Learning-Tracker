@@ -44,7 +44,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [Completed]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Completed"
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
-[Soon]: https://user-images.githubusercontent.com/29199184/34411578-c6806e3e-ebd7-11e7-9e9b-994fd27c3b60.png "Soon"
+[Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
 |            Status           | Year | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----|:----------------------------------------------------------------|:-------------------------------------------:|
