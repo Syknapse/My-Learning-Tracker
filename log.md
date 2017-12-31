@@ -8,6 +8,17 @@
 
 ----
 
+## 31 Dec 17
+
+Finished the introduction to Javascript on my Udacity course with more work on objects. And started the jQuery section. Advancing at a good pace. Participation in the forum is bringing in a wider understanding of the subjects.<br>
+Exercises like this one in the image have really made me understand methods and how versatile objects can be.
+
+![object](https://user-images.githubusercontent.com/29199184/34463352-4a8d6956-ee59-11e7-9db6-f0b6f4c13974.PNG)
+
+**That's a wrap 2017. See you in 2018!**
+
+----
+
 ## 30 Dec 17
 
 Continued working on the **Udacity Google Scholarship** course: mainly [arrays](https://github.com/Syknapse/Google-Challenge-Scholarship-Front-End-Web-Dev/blob/master/short-exercises/arrays.js) and [objects](https://github.com/Syknapse/Google-Challenge-Scholarship-Front-End-Web-Dev/blob/master/short-exercises/objects.js).
