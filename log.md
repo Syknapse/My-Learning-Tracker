@@ -8,6 +8,17 @@
 
 ----
 
+## 2 Jan 18
+
+Back from a day off. Finished the Udacity course content and I'm no won the final project; Pixel Art Maker. Everything is setup and ready to go tomorrow. I'm really looking forward to doing it and finishing the course completely before moving on to more in depth JavaScript for my #OperationJavaScript objective.
+
+Practiced jQuery DOM manipulation and event listeners and found it useful.
+Read the Udacity style guides for HTML, CSS, JavaScript, and Git which gave me a good insight on clean code writing.
+
+read [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus/) and [The Reddit post that initiated the "No Zero Days" idea](https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/) Which I though resonated with the way I have been working on coding for the past few months, and more generally over the last few years of changing negative habits and building positive ones.
+
+----
+
 ## 31 Dec 17
 
 Finished the introduction to Javascript on my Udacity course with more work on objects. And started the jQuery section. Advancing at a good pace. Participation in the forum is bringing in a wider understanding of the subjects.<br>
@@ -78,7 +89,7 @@ Take the necessary steps to get my first Web Developer job:
 
 ## 24 Dec 17
 
-Spent the last few weeks working on the Udacity's Google Challenge Scholarship course. Then built a [full tutorial](https://github.com/Syknapse/Contribute-To-This-Project) for begginers to make their first contribution on GitHub. Spent a good amount of time improving it and learning more markdown in the process and dealing with the PRs I'm getting (17 contributions so far). Also added a custom JS feature to the [contribution page](https://syknapse.github.io/Contribute-To-This-Project/) that counts the number of contributions and displays the number in a counter with a count up style. 
+Spent the last few weeks working on the Udacity's Google Challenge Scholarship course. Then built a [full tutorial](https://github.com/Syknapse/Contribute-To-This-Project) for begginers to make their first contribution on GitHub. Spent a good amount of time improving it and learning more markdown in the process and dealing with the PRs I'm getting (17 contributions so far). Also added a custom JS feature to the [contribution page](https://syknapse.github.io/Contribute-To-This-Project/) that counts the number of contributions and displays the number in a counter with a count up style.
 
 ![contributions counter](https://user-images.githubusercontent.com/29199184/34326362-caebaf4a-e8aa-11e7-9415-0c88994aa5fc.gif)
 
@@ -88,7 +99,7 @@ In the last few days I have learnt the basics of AJAX and some more GIT on Tree 
 
 ## 22 Nov 17
 
-Completed [Workflow Tools for Web Developers](https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html) by [Christina Truong](https://twitter.com/christinatruong). Very useful. 
+Completed [Workflow Tools for Web Developers](https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html) by [Christina Truong](https://twitter.com/christinatruong). Very useful.
 
 Browsers & testing - advanced inspector/console - editor code snippets - CSS preprocessors & compilers - task runners
 
@@ -98,7 +109,7 @@ completed [Learning Git and GitHub](https://www.lynda.com/Git-tutorials/Up-Runni
 
 Git init - add - commit - staging - deleting - log - branches - states
 
-GitHub cloning - cloning branches - templates 
+GitHub cloning - cloning branches - templates
 
 Gitbash to GitHub push and pull
 
@@ -112,13 +123,13 @@ Grid design - CSS grid and flexbox - retina and high density displays - images -
 
 Completed [CSS Essential Training 2](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html) by [Christina Truong](https://twitter.com/christinatruong). Excellent.
 
-Advanced selectors - float & display - positioning - z-index - CSS reset - background & gradients - 
+Advanced selectors - float & display - positioning - z-index - CSS reset - background & gradients -
 
-responsive design: mobile first, gracefull degredation, progressive enhancement, fluid, adaptive, media queries, testing responsive, 
+responsive design: mobile first, gracefull degredation, progressive enhancement, fluid, adaptive, media queries, testing responsive,
 
 ## 10 Nov 17
 
-Completed [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial). Great tutorial. 
+Completed [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial). Great tutorial.
 
 ## 5 Nov 17
 
