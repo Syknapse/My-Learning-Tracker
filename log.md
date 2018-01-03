@@ -8,6 +8,16 @@
 
 ----
 
+## 3 Jan 18
+
+An epic session on the **Pixel Art Maker** final project and huge progress. Finished much more than I was expecting. Completed all major features without looking at other similar projects. Extremely happy that I managed to solve all the logic required on my own. Then I started trying out more advanced features. I had a bit of difficulty creating a feature that adds and removes rows or columns directly. But in the end, with a bit of Stack Overflow help I figured it out. Great day!
+
+![Pixel Art Maker](https://user-images.githubusercontent.com/29199184/34535567-95422c64-f0c2-11e7-881a-fd1edc1d3195.gif "All the functionalities by the end of this session")
+
+Tomorrow, I will experiment with few more advanced functionalities, work on the style and hopefully have it finished by the end of the day.
+
+----
+
 ## 2 Jan 18
 
 Back from a day off. Finished the Udacity course content and I'm no won the final project; Pixel Art Maker. Everything is setup and ready to go tomorrow. I'm really looking forward to doing it and finishing the course completely before moving on to more in depth JavaScript for my #OperationJavaScript objective.
