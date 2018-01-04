@@ -8,6 +8,62 @@
 
 ----
 
+## 4 Jan 18
+
+Great advance on my project. Figured out the logic to be able to erase on click, then how to draw by click & drag, then how to erase like this too. Squashed many bugs on the way, and did some major refactoring.
+
+I'm very proud of figuring out how to turn this ugly code repeated for each of the four buttons into a much more elegant and efficient one below.
+
+```diff
+-addRowBtn.click(function(){
+-    inputHeight.val(function(i, val) {
+-        return val*1+1
+-    });
+-    makeGrid();
+- });
+
++function increment (i, val) {
++    return +val +1
++}
+
++function decrement (i, val) {
++    return +val -1
++}
+
++function gridBuilder (scale, axis){
++    axis.val(scale);
++    makeGrid();
++}
+
++addRowBtn.click(function(){
++    gridBuilder(increment, inputRows);
++});
+```
+
+I managed to solve the erase problem by creating an odd/even function using the `data()` method to add color on first click and go back to default on second click.
+
+```js
+// draw/erase function
+function draw (){
+    let clicks = $(this).data('clicks');
+    if (!clicks){
+        // Change background color of cell
+        $(this).css('background-color', selectedColor);
+    } else {
+        // On second click return color to default (erase)
+        $(this).css('background-color', '');
+    }
+    // Fire `if` event on odd clicks
+    $(this).data('clicks', !clicks);
+}
+```
+
+Once I implemented the click and drag drawing, I managed to fix the bug that was causing `mouseup` event not to fire when the event happened between cells or outside of the table by using `event.preventDefault()` on `mousedown` and adding a `mouseleave` event to the table.
+
+![pixelart2](https://user-images.githubusercontent.com/29199184/34581566-3672338a-f191-11e7-82ce-b7b043133dce.gif)
+
+----
+
 ## 3 Jan 18
 
 An epic session on the **Pixel Art Maker** final project and huge progress. Finished much more than I was expecting. Completed all major features without looking at other similar projects. Extremely happy that I managed to solve all the logic required on my own. Then I started trying out more advanced features. I had a bit of difficulty creating a feature that adds and removes rows or columns directly. But in the end, with a bit of Stack Overflow help I figured it out. Great day!
