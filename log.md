@@ -22,6 +22,11 @@ I'm very proud of figuring out how to turn this ugly code repeated for each of t
 -    makeGrid();
 - });
 
++addRowBtn.click(function(){
++    gridBuilder(increment, inputRows);
++});
+
+
 +function increment (i, val) {
 +    return +val +1
 +}
@@ -34,10 +39,6 @@ I'm very proud of figuring out how to turn this ugly code repeated for each of t
 +    axis.val(scale);
 +    makeGrid();
 +}
-
-+addRowBtn.click(function(){
-+    gridBuilder(increment, inputRows);
-+});
 ```
 
 I managed to solve the erase problem by creating an odd/even function using the `data()` method to add color on first click and go back to default on second click.
