@@ -8,6 +8,38 @@
 
 ----
 
+## 5 Jan 18
+
+Bug fixing day. Spent most of the day trying to improve and fix my code on the Pixel Art project.
+
+**Bug 1**: Found by a fellow student in the feedback forum. Described as such:
+> 1. Create new grid
+1. Select another color i.e. red
+1. Reset the grid
+1. Create new grid
+1. The selected color is shown as black, but if you click on the grid its painting the color selected in step 2.
+
+This one was simple and obvious. I wasn't updating the `selectedColor` variable with the new color input value on reset.
+
+```js
+function reset(){
+    clearGrid();
+    colorInput.val('#000000');
++   selectedColor = colorInput.val();
+    inputRows.val(10);
+    inputColumns.val(10);
+}
+```
+
+**Bug 2**: This one was a nightmare, I couldn't understand what was causing it. And when I did I didn't know how to fix it, and in the end it was, as expected, simple to solve!
+
+Basically when clicking individual cells, sometimes the color flickered or didn't show at all. After a long session of testing, and narrowing down the possible causes I finally found the culprit. It was the fact that a `mousemove` was firing because of a tiny mouse move, and when the `mouseup` event was occurring within the same cell it caused the `mouseIsDown` variable to register `false` and counteract the add color function.<br>
+The solution seems painfully obvious now, but it took me a very long time with a lot of attempts trying to find a way to register the starting and ending cell between clicks. But eventually I realised that a simple change of event to `mouseleave` is the only thing I needed.
+
+All in all a tiring session, but My project is completed and I'm thrilled. Just need to style it now.
+
+----
+
 ## 4 Jan 18
 
 Great advance on my project. Figured out the logic to be able to erase on click, then how to draw by click & drag, then how to erase like this too. Squashed many bugs on the way, and did some major refactoring.
