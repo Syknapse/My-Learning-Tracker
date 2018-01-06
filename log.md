@@ -8,6 +8,19 @@
 
 ----
 
+## Sat 6 Jan 18
+
++ Udacity course completely finished.
++ [Pixel Art Project version 1.0](https://syknapse.github.io/Pixel-art-maker/) is ready.
++ Day 1 of #100DaysOfCode Round 3.
+
+I spent most of the day trying to implement a feature where adding rows and columns with the builder don't reset the drawing. I advanced a lot and managed to get the basic function working. But conflicts produced when the number input was manually changed complicated the process and I had to abandon it in a separate branch for another time because I wanted at least the 1st version done.<br>
+I also tried to fix the little bug earlier where a new color cannot be added on top of an older one before deleting it in single click mode. But I also decided to leave it for a later stage, when I will refactor and improve the project.
+
+For now The long hours of holiday are over, on Monday I'm back to work. BUt I'm very glad I finished the course before hand.
+
+----
+
 ## 5 Jan 18
 
 Bug fixing day. Spent most of the day trying to improve and fix my code on the Pixel Art project.
