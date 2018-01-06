@@ -14,10 +14,10 @@ Bug fixing day. Spent most of the day trying to improve and fix my code on the P
 
 **Bug 1**: Found by a fellow student in the feedback forum. Described as such:
 > 1. Create new grid
-1. Select another color i.e. red
-1. Reset the grid
-1. Create new grid
-1. The selected color is shown as black, but if you click on the grid its painting the color selected in step 2.
+> 1. Select another color i.e. red
+> 1. Reset the grid
+> 1. Create new grid
+> 1. The selected color is shown as black, but if you click on the grid its painting the color selected in step 2.
 
 This one was simple and obvious. I wasn't updating the `selectedColor` variable with the new color input value on reset.
 
