@@ -46,23 +46,23 @@ A complete log of my web development skills, learning, resources, highlights, in
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|            Status           | Year | Course                                                          |                Tutor                        |
-|:---------------------------:|:-----|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | 2017 | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017 | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| ![Completed][Completed]     | 2017 | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017 | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017 | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017 | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| ![Completed][Completed]     | 2017 | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017 | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |      | [The Web Developer Bootcamp - Back End]                         | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |      | [Front End Development]                                         | [Free Code Camp]                            |
-| ![In Progress][In Progress] |      | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
-| ![In Progress][In Progress] |      | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![In Progress][In Progress] |      | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
-| ![In Progress][In Progress] |      | [Learn CSS Grid]                                                | [Per Harald Borgen] - [Scrimba]             |
-| ![Soon][Soon]               |      | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
+|            Status           |   Year   | Course                                                          |                Tutor                        |
+|:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
+| ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
+| ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
+| ![Completed][Completed]     | 2017     | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
+| ![Completed][Completed]     | 2017     | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
+| ![Completed][Completed]     | 2017     | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
+| ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
+| ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
+| ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
+| ![In Progress][In Progress] |          | [The Web Developer Bootcamp - Back End]                         | Colt Steele - [Udemy]                       |
+| ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                            |
+| ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
+| ![In Progress][In Progress] |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
+| ![In Progress][In Progress] |          | [Learn CSS Grid]                                                | [Per Harald Borgen] - [Scrimba]             |
+| ![Soon][Soon]               |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
 
 [//]: # (Reference links to courses)
 
@@ -148,7 +148,7 @@ I'm currently interested in/excited about:
 
 This is a list of basic objectives to meet on the road to mastering web development.
 
-It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155) 
+It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
 
 
 * [x] Open the computer’s terminal
@@ -175,7 +175,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 ----
 
-If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star. 
+If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
 **You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
 
@@ -183,7 +183,7 @@ If you find this useful for your own needs you are welcome to fork a copy, custo
 
 ### Acknowledgments
 
-This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it. 
+This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
 
 ### License
 
