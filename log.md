@@ -6,6 +6,33 @@
 
 [__************** 2018 Objectives **************__](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#28-dec-17)
 
+----------------------------------------------------------
+
+## Fri 19 Jan 18
+
+It's been a while since my last log. As expected the return to work meant that I have been swamped and had little time. Still I have not stopped from coding daily and managed more than an hour most days.
+
+Apart from few bits here and there the main work I have done since my last log was to improve and fix my Pixel Art project. Even though it went way beyond my own time limit, I was learning so much I just found it useful to keep on pushing. The biggest skills I have developed over this time is finding bugs, and then figuring out ways to solve them:
+
++ The process of narrowing down the possible causes of a bug and testing until the exact cause is determined.
++ The process of finding a solution. Is it something that can be fixed writing better code or do I need a new logic to fix it?
+
+Some of the problems, bugs and solutions I have dealt with these past days:
+
+![Pixel Art Maker controls](https://user-images.githubusercontent.com/29199184/35164257-fe5a0116-fd49-11e7-9a7e-74373a8ef295.png)
+
++ Using manual input and then clicking on the grid builder buttons (+/- rows/columns) only added/removed 1 row/column instead of the value entered and desynchronised the two. The solution was to make the button's own native value always synced to the input.
+
++ Then to make sure the right number of rows/columns is added or removed I implemented a function that counts the current rows and columns on the grid, compares it to the input value and returns the difference. This value is then used to determine what should be added or removed.
+
++ This also allowed me to stop the unexpected behaviour produced when manual input was increased followed by clicking the opposite grid builder button. This was solved by making every event check for the current grid and input and create that grid before adding or removing. This ensured that whatever combination of manual input and buttons used it will always result in a grid exactly the size displayed in the inputs.
+
++ Implemented a build grid function on `enter` on inputs. And to fix problem caused when both inputs are changed before clicking `Make Grid` implemented a solution where as soon as the input looses focus the build grid is fired thus ensuring that make grid is not dealing with two inputs.
+
++ The final major bug was the buttons stopped working on mobile because of the change from `click` event to `mousedown` event to enable continuous building. This was fixed using the `touchstart` event.
+
++ [These are the commits](https://github.com/Syknapse/Pixel-art-maker/commits/master) that show the progress of these ideas.
+
 ----
 
 ## Sat 6 Jan 18
@@ -17,7 +44,7 @@
 I spent most of the day trying to implement a feature where adding rows and columns with the builder don't reset the drawing. I advanced a lot and managed to get the basic function working. But conflicts produced when the number input was manually changed complicated the process and I had to abandon it in a separate branch for another time because I wanted at least the 1st version done.<br>
 I also tried to fix the little bug earlier where a new color cannot be added on top of an older one before deleting it in single click mode. But I also decided to leave it for a later stage, when I will refactor and improve the project.
 
-For now The long hours of holiday are over, on Monday I'm back to work. BUt I'm very glad I finished the course before hand.
+For now The long hours of holiday are over, on Monday I'm back to work. But I'm very glad I finished the course before hand.
 
 ----
 
