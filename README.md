@@ -57,12 +57,12 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
 | ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
 | ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |          | [The Web Developer Bootcamp - Back End]                         | Colt Steele - [Udemy]                       |
 | ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                            |
 | ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
 | ![In Progress][In Progress] |          | [Learn CSS Grid]                                                | [Per Harald Borgen] - [Scrimba]             |
 | ![Soon][Soon]               |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
+| ![Soon][Soon]               |          | [The Web Developer Bootcamp - Back End]                         | Colt Steele - [Udemy]                       |
 
 [//]: # (Reference links to courses)
 
