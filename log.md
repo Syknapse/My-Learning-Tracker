@@ -8,6 +8,12 @@
 
 ----------------------------------------------------------
 
+## Thurs 25 Jan 18
+
+I spent most of the past few days working along with WEs Bos's #JavaScript30 course and learning some very neat skills. Today I have been getting myself ready for an intensive React weekend. I'm keen on getting familiar with it as soon as possible. Also yesterday I applied for a dev job properly for the first time!
+
+----
+
 ## Fri 19 Jan 18
 
 It's been a while since my last log. As expected the return to work meant that I have been swamped and had little time. Still I have not stopped from coding daily and managed more than an hour most days.
