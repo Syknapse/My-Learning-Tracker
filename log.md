@@ -8,9 +8,19 @@
 
 ----------------------------------------------------------
 
+## Fri 26 Jan 18
+
+__** Introduction to React **__: Today I made my first `Hello World` in React, and I absolutely love the way it works and the idea behind it. I followed these two parts of a tutorial:
++ [Learning React With Create-React-App (Part 1)](https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-1-a12e1833fdc)
++ [Learning React With Create-React-App (Part 2)](https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-2-3ad99f38b48d)
+
+![react hello world](https://user-images.githubusercontent.com/29199184/35457331-d1aca756-02d8-11e8-8314-442d6361035f.gif)
+
+----
+
 ## Thurs 25 Jan 18
 
-I spent most of the past few days working along with WEs Bos's #JavaScript30 course and learning some very neat skills. Today I have been getting myself ready for an intensive React weekend. I'm keen on getting familiar with it as soon as possible. Also yesterday I applied for a dev job properly for the first time!
+I spent most of the past few days working along with Wes Bos's #JavaScript30 course and learning some very neat skills. Today I have been getting myself ready for an intensive React weekend. I'm keen on getting familiar with it as soon as possible. Also yesterday I applied for a dev job properly for the first time!
 
 ----
 
