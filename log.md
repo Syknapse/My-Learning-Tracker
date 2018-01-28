@@ -8,6 +8,10 @@
 
 ----------------------------------------------------------
 
+## Sun 28 Jan 18
+
+Today I managed to finish the second phase of my [React Hello World App](https://github.com/Syknapse/react-hello-world-app) and successfully deploy it. Yesterday I struggled a lot with the deployment part but today using Surge.sh and changing the `index.html` to `200.html` for client-side routing worked.
+
 ## Fri 26 Jan 18
 
 __** Introduction to React **__: Today I made my first `Hello World` in React, and I absolutely love the way it works and the idea behind it. I followed these two parts of a tutorial:
