@@ -8,9 +8,25 @@
 
 ----------------------------------------------------------
 
+## Mon 29 Jan 18
+
+Advanced significantly on the FCC-Beta test of the Random Quote Machine project. Followed [this tutorial](https://youtu.be/mezmWEtvCig) which helped get most of the basics of the project done. But it had few gaps and an important error. At the end it only fetched one quote, rendered it poorly, and the twitter function didn't follow the project guidlines. So I had to figure out the rest on my own:
++ Changed API source and got it to fetch a new one on click. I did this on my own.
++ Figured out how to get it to display a quote on load by studying several other projects.
++ Figured out how to implement the twitter button correctly by trying out several ideas I found.
+
+The project now has got all the basic requirements working properly. It fetches a quote on load, features a button for another random quote, and quote can be tweeted. I'm very proud that I have managed to get this far using a framework that is still brand new to me.<br>
+Now I just need to make few modifications to get it to pass all the FCC tests, then work on styling it.
+
+![random quote machine](https://user-images.githubusercontent.com/29199184/35535065-b47effa0-0542-11e8-990e-24624939c3ba.gif)
+
+----
+
 ## Sun 28 Jan 18
 
 Today I managed to finish the second phase of my [React Hello World App](https://github.com/Syknapse/react-hello-world-app) and successfully deploy it. Yesterday I struggled a lot with the deployment part but today using Surge.sh and changing the `index.html` to `200.html` for client-side routing worked.
+
+----
 
 ## Fri 26 Jan 18
 
