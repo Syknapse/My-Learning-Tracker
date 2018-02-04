@@ -2,7 +2,7 @@
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[For my full portfolio click here](https://syknapse.github.io/Syk-Houdeib/) || [For my learning log click here](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md)
+[For my full portfolio click here](https://syknapse.github.io/Syk-Houdeib/ "https://syknapse.github.io/Syk-Houdeib") || [For my learning log click here](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md "Regular logs of my learning with links, reflections, and information about my learning process")
 
 ----
 
@@ -123,11 +123,11 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 ## Highlights
 
-The most interesting of what I'm watching, reading, and doing.
+The most interesting of what I'm watching, reading, and doing:
 
 [**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/)
 
-And here is a chronological log of the highlights of my learning
+And here is a chronological log of the highlights of my learning:
 
 [**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md)
 
