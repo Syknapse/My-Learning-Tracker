@@ -2,7 +2,7 @@
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[For my full portfolio click here](https://syknapse.github.io/Syk-Houdeib/)
+[For my full portfolio click here](https://syknapse.github.io/Syk-Houdeib/) || [For my learning log click here](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md)
 
 ----
 
@@ -31,6 +31,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Angular 4**                     | ![done][done]     |               |               |                  |                |                 |
 |**Task runners Gulp/Grunt**       | ![done][done]     |               |               |                  |                |                 |
 |**NPM scripts**                   | ![done][done]     |               |               |                  |                |                 |
@@ -124,11 +125,11 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 The most interesting of what I'm watching, reading, and doing.
 
-<kbd> [**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/) </kbd>
+[**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/)
 
 And here is a chronological log of the highlights of my learning
 
-<kbd> [**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md) </kbd>
+[**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md)
 
 ----
 
@@ -167,7 +168,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [ ] Speak about something web development-related at an event
 * [ ] Complete a technical interview
 * [ ] Participate in a hackathon
-* [ ] Deploy a project
+* [x] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
 * [ ] Get paid to code
