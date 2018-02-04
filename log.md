@@ -1,8 +1,10 @@
 # Learning log
 
-|Date||
-|:---:|:---|
-||Learnt, thoughts, progress, ideas, links|
+|Date |                                        |
+|:---:|:---------------------------------------|
+|     |Learnt, thoughts, progress, ideas, links|
+
+## Full [Log Index]
 
 [__************** 2018 Objectives **************__](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#28-dec-17)
 
@@ -13,6 +15,10 @@
 Today I completed the FCC-beta Random Quote Machine project built with React. Over the week I successfully got it to pass all the FCC test suite tests. Then worked on styling and improving the app. Including particle.js library took a bit of time until I realised I needed to use the special React library version. Finally I deployed it using Surge.sh. I'm very happy with this project; an introduction to React, using APIs, and helping out the FCC team in their beta tests.
 
 [Totally Random Quote Machine](http://totally-random-quote-machine.surge.sh/)
+
+[Log Index]
+
+----
 
 ## Mon 29 Jan 18
 
@@ -26,11 +32,15 @@ Now I just need to make few modifications to get it to pass all the FCC tests, t
 
 ![random quote machine](https://user-images.githubusercontent.com/29199184/35535065-b47effa0-0542-11e8-990e-24624939c3ba.gif)
 
+[Log Index]
+
 ----
 
 ## Sun 28 Jan 18
 
 Today I managed to finish the second phase of my [React Hello World App](https://github.com/Syknapse/react-hello-world-app) and successfully deploy it. Yesterday I struggled a lot with the deployment part but today using Surge.sh and changing the `index.html` to `200.html` for client-side routing worked.
+
+[Log Index]
 
 ----
 
@@ -42,11 +52,15 @@ __** Introduction to React **__: Today I made my first `Hello World` in React, a
 
 ![react hello world](https://user-images.githubusercontent.com/29199184/35457331-d1aca756-02d8-11e8-8314-442d6361035f.gif)
 
+[Log Index]
+
 ----
 
 ## Thurs 25 Jan 18
 
 I spent most of the past few days working along with Wes Bos's #JavaScript30 course and learning some very neat skills. Today I have been getting myself ready for an intensive React weekend. I'm keen on getting familiar with it as soon as possible. Also yesterday I applied for a dev job properly for the first time!
+
+[Log Index]
 
 ----
 
@@ -75,6 +89,8 @@ Some of the problems, bugs and solutions I have dealt with these past days:
 
 + [These are the commits](https://github.com/Syknapse/Pixel-art-maker/commits/master) that show the progress of these ideas.
 
+[Log Index]
+
 ----
 
 ## Sat 6 Jan 18
@@ -87,6 +103,8 @@ I spent most of the day trying to implement a feature where adding rows and colu
 I also tried to fix the little bug earlier where a new color cannot be added on top of an older one before deleting it in single click mode. But I also decided to leave it for a later stage, when I will refactor and improve the project.
 
 For now The long hours of holiday are over, on Monday I'm back to work. But I'm very glad I finished the course before hand.
+
+[Log Index]
 
 ----
 
@@ -119,6 +137,8 @@ Basically when clicking individual cells, sometimes the color flickered or didn'
 The solution seems painfully obvious now, but it took me a very long time with a lot of attempts trying to find a way to register the starting and ending cell between clicks. But eventually I realised that a simple change of event to `mouseleave` is the only thing I needed.
 
 All in all a tiring session, but My project is completed and I'm thrilled. Just need to style it now.
+
+[Log Index]
 
 ----
 
@@ -177,6 +197,8 @@ Once I implemented the click and drag drawing, I managed to fix the bug that was
 
 ![pixelart2](https://user-images.githubusercontent.com/29199184/34581566-3672338a-f191-11e7-82ce-b7b043133dce.gif)
 
+[Log Index]
+
 ----
 
 ## 3 Jan 18
@@ -186,6 +208,8 @@ An epic session on the **Pixel Art Maker** final project and huge progress. Fini
 ![Pixel Art Maker](https://user-images.githubusercontent.com/29199184/34535567-95422c64-f0c2-11e7-881a-fd1edc1d3195.gif "All the functionalities by the end of this session")
 
 Tomorrow, I will experiment with few more advanced functionalities, work on the style and hopefully have it finished by the end of the day.
+
+[Log Index]
 
 ----
 
@@ -198,6 +222,8 @@ Read the Udacity style guides for HTML, CSS, JavaScript, and Git which gave me a
 
 read [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus/) and [The Reddit post that initiated the "No Zero Days" idea](https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/) Which I though resonated with the way I have been working on coding for the past few months, and more generally over the last few years of changing negative habits and building positive ones.
 
+[Log Index]
+
 ----
 
 ## 31 Dec 17
@@ -208,6 +234,8 @@ Exercises like this one in the image have really made me understand methods and 
 ![object](https://user-images.githubusercontent.com/29199184/34463352-4a8d6956-ee59-11e7-9db6-f0b6f4c13974.PNG)
 
 **That's a wrap 2017. See you in 2018!**
+
+[Log Index]
 
 ----
 
@@ -220,6 +248,7 @@ I was especially amazed to discover how you can create a `method()` inside of an
 
 ![Nested arrays loops](https://user-images.githubusercontent.com/29199184/34457123-0a10bf88-eda8-11e7-9902-e893ff846726.png "Replace numbers in nested arrays with odd or even")
 
+[Log Index]
 
 ----
 
@@ -233,6 +262,8 @@ Managed to solve most of the problems without help. Not easy, but **#OperationJa
 Started on the first two screen casts of **Scrimba's Learn CSS Grid** course. I'm amazed by the platform where you can edit the code right in the screen!
 
 All in all a **good** all-day session.
+
+[Log Index]
 
 ----
 
@@ -264,6 +295,10 @@ Take the necessary steps to get my first Web Developer job:
 + Prepare for interviews.
 + Learn any necessary additional skills or technologies.
 
+[Log Index]
+
+----
+
 ----
 
 ----
@@ -274,15 +309,27 @@ Spent the last few weeks working on the Udacity's Google Challenge Scholarship c
 
 ![contributions counter](https://user-images.githubusercontent.com/29199184/34326362-caebaf4a-e8aa-11e7-9415-0c88994aa5fc.gif)
 
+[Log Index]
+
+----
+
 ## 27 Nov 17
 
 In the last few days I have learnt the basics of AJAX and some more GIT on Tree House. Also installed VS Code, read documentation and watched tutorial videos and started using it.
+
+[Log Index]
+
+----
 
 ## 22 Nov 17
 
 Completed [Workflow Tools for Web Developers](https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html) by [Christina Truong](https://twitter.com/christinatruong). Very useful.
 
 Browsers & testing - advanced inspector/console - editor code snippets - CSS preprocessors & compilers - task runners
+
+[Log Index]
+
+----
 
 ## 20 Nov 17
 
@@ -294,11 +341,19 @@ GitHub cloning - cloning branches - templates
 
 Gitbash to GitHub push and pull
 
+[Log Index]
+
+----
+
 ## 17 Nov 17
 
 Completed [CSS Essential Training 3](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html) by [Christina Truong](https://twitter.com/christinatruong). Excellent.
 
 Grid design - CSS grid and flexbox - retina and high density displays - images - svg - transitions - animations - shapes - responsive and fluid typography - advanced attribute selectors - accessibility - ARIA - style guides - refactoring guide
+
+[Log Index]
+
+----
 
 ## 15 Nov 17
 
@@ -306,17 +361,35 @@ Completed [CSS Essential Training 2](https://www.lynda.com/CSS-tutorials/CSS-Ess
 
 Advanced selectors - float & display - positioning - z-index - CSS reset - background & gradients -
 
-responsive design: mobile first, gracefull degredation, progressive enhancement, fluid, adaptive, media queries, testing responsive,
+responsive design: mobile first, graceful degradation, progressive enhancement, fluid, adaptive, media queries, testing responsive
+
+[Log Index]
+
+----
 
 ## 10 Nov 17
 
 Completed [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial). Great tutorial.
 
+[Log Index]
+
+----
+
 ## 5 Nov 17
 
 Command line. Worked on [Getting to Know the Command Line](https://www.davidbaumgold.com/tutorials/command-line/) and [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
 
+[Log Index]
+
+----
+
 ## 3 Nov 17
 
 Read [My journey to becoming a web developer ](https://medium.freecodecamp.org/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503) Which contains a ton of learning resources and recommendations.
+
+[Log Index]
+
+----
+
+[Log Index]: https://github.com/Syknapse/My-Learning-Tracker/blob/master/log-index.md#log-index
 
