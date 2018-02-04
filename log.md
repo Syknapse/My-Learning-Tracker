@@ -8,6 +8,12 @@
 
 ----------------------------------------------------------
 
+## Sat 3 Feb 18
+
+Today I completed the FCC-beta Random Quote Machine project built with React. Over the week I successfully got it to pass all the FCC test suite tests. Then worked on styling and improving the app. Including particle.js library took a bit of time until I realised I needed to use the special React library version. Finally I deployed it using Surge.sh. I'm very happy with this project; an introduction to React, using APIs, and helping out the FCC team in their beta tests.
+
+[Totally Random Quote Machine](http://totally-random-quote-machine.surge.sh/)
+
 ## Mon 29 Jan 18
 
 Advanced significantly on the FCC-Beta test of the Random Quote Machine project. Followed [this tutorial](https://youtu.be/mezmWEtvCig) which helped get most of the basics of the project done. But it had few gaps and an important error. At the end it only fetched one quote, rendered it poorly, and the twitter function didn't follow the project guidlines. So I had to figure out the rest on my own:
