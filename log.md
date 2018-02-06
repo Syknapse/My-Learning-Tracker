@@ -10,6 +10,14 @@
 
 ----------------------------------------------------------
 
+## Tues 6 Feb 18
+
+Read the great [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) article. And the last few days I have been working on an egghead.io React course.
+
+[Log Index]
+
+----
+
 ## Sat 3 Feb 18
 
 Today I completed the FCC-beta Random Quote Machine project built with React. Over the week I successfully got it to pass all the FCC test suite tests. Then worked on styling and improving the app. Including particle.js library took a bit of time until I realised I needed to use the special React library version. Finally I deployed it using Surge.sh. I'm very happy with this project; an introduction to React, using APIs, and helping out the FCC team in their beta tests.
