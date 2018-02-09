@@ -10,6 +10,14 @@
 
 ----------------------------------------------------------
 
+## Thurs 8 Feb 18
+
+Continued familiarising myself with React with Kent C Dodd's course and this [7 minute introduction](https://egghead.io/lessons/react-react-in-7-minutes)
+
+[Log Index]
+
+----
+
 ## Tues 6 Feb 18
 
 Read the great [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) article. And the last few days I have been working on an egghead.io React course.
