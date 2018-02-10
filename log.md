@@ -10,13 +10,35 @@
 
 ----------------------------------------------------------
 
+----------------------------------------------------------
+
+## Sat 10 Feb 18
+
+Continued the React course. Practiced a lot and made 3 apps
+
++ Count click events and display typed input
+
+![reactevents](https://user-images.githubusercontent.com/29199184/36066018-5450ddd2-0ea3-11e8-9cc1-c6c20bf69520.gif)
++ A stopwatch. Start, stop and clear
+
+![reactstopwatch](https://user-images.githubusercontent.com/29199184/36066021-58da91b8-0ea3-11e8-8114-a8826a3f5308.gif)
++ A dynamic input that shows an error message and has the submit disabled until error is resolved
+
+![reactdynamicinput](https://user-images.githubusercontent.com/29199184/36066024-621bd8cc-0ea3-11e8-9d9d-5c6836711614.gif)
+
+
+
+[Log Index]
+
+----------------------------------------------------------
+
 ## Thurs 8 Feb 18
 
 Continued familiarising myself with React with Kent C Dodd's course and this [7 minute introduction](https://egghead.io/lessons/react-react-in-7-minutes)
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## Tues 6 Feb 18
 
@@ -24,7 +46,7 @@ Read the great [Modern CSS Explained For Dinosaurs](https://medium.com/actualize
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## Sat 3 Feb 18
 
@@ -34,7 +56,7 @@ Today I completed the FCC-beta Random Quote Machine project built with React. Ov
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## Mon 29 Jan 18
 
@@ -50,7 +72,7 @@ Now I just need to make few modifications to get it to pass all the FCC tests, t
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## Sun 28 Jan 18
 
@@ -58,7 +80,7 @@ Today I managed to finish the second phase of my [React Hello World App](https:/
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## Fri 26 Jan 18
 
@@ -70,7 +92,7 @@ __** Introduction to React **__: Today I made my first `Hello World` in React, a
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## Thurs 25 Jan 18
 
@@ -78,7 +100,7 @@ I spent most of the past few days working along with Wes Bos's #JavaScript30 cou
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## Fri 19 Jan 18
 
@@ -107,7 +129,7 @@ Some of the problems, bugs and solutions I have dealt with these past days:
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## Sat 6 Jan 18
 
@@ -122,7 +144,7 @@ For now The long hours of holiday are over, on Monday I'm back to work. But I'm 
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 5 Jan 18
 
@@ -156,7 +178,7 @@ All in all a tiring session, but My project is completed and I'm thrilled. Just 
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 4 Jan 18
 
@@ -215,7 +237,7 @@ Once I implemented the click and drag drawing, I managed to fix the bug that was
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 3 Jan 18
 
@@ -227,7 +249,7 @@ Tomorrow, I will experiment with few more advanced functionalities, work on the 
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 2 Jan 18
 
@@ -240,7 +262,7 @@ read [How I got to 200 productive hours a month](https://qotoqot.com/blog/improv
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 31 Dec 17
 
@@ -253,7 +275,7 @@ Exercises like this one in the image have really made me understand methods and 
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 30 Dec 17
 
@@ -266,7 +288,7 @@ I was especially amazed to discover how you can create a `method()` inside of an
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 29 Dec 17
 
@@ -281,9 +303,9 @@ All in all a **good** all-day session.
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
-----
+----------------------------------------------------------
 
 ## 28 Dec 17
 
@@ -313,11 +335,9 @@ Take the necessary steps to get my first Web Developer job:
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
-----
-
-----
+----------------------------------------------------------
 
 ## 24 Dec 17
 
@@ -327,7 +347,7 @@ Spent the last few weeks working on the Udacity's Google Challenge Scholarship c
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 27 Nov 17
 
@@ -335,7 +355,7 @@ In the last few days I have learnt the basics of AJAX and some more GIT on Tree 
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 22 Nov 17
 
@@ -345,7 +365,7 @@ Browsers & testing - advanced inspector/console - editor code snippets - CSS pre
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 20 Nov 17
 
@@ -359,7 +379,7 @@ Gitbash to GitHub push and pull
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 17 Nov 17
 
@@ -369,7 +389,7 @@ Grid design - CSS grid and flexbox - retina and high density displays - images -
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 15 Nov 17
 
@@ -381,7 +401,7 @@ responsive design: mobile first, graceful degradation, progressive enhancement, 
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 10 Nov 17
 
@@ -389,7 +409,7 @@ Completed [Learn Enough Command Line to Be Dangerous](https://www.learnenough.co
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 5 Nov 17
 
@@ -397,15 +417,14 @@ Command line. Worked on [Getting to Know the Command Line](https://www.davidbaum
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 ## 3 Nov 17
 
-Read [My journey to becoming a web developer ](https://medium.freecodecamp.org/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503) Which contains a ton of learning resources and recommendations.
+Read [My journey to becoming a web developer](https://medium.freecodecamp.org/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503) Which contains a ton of learning resources and recommendations.
 
 [Log Index]
 
-----
+----------------------------------------------------------
 
 [Log Index]: https://github.com/Syknapse/My-Learning-Tracker/blob/master/log-index.md#log-index
-
