@@ -44,3 +44,38 @@ function getElementsByAttribute(attribute, value) {
     return matches;
 }
 ```
+
+## Events
+
+```js
+//  listener🔽 .... event we're🔽 listening for .. 🔽callback function
+element.addEventListener("event", function() {
+    // do something
+});
+
+// Example
+document.getElementById('btn').addEventListener("click", function() {
+    console.log('Print this when a button has been clicked');
+});
+```
+
+Custom Event
+
+```js
+// Creates a custom event
+document.body.addEventListener('customTimeEvent', stateTime);
+
+function stateTime(e) {
+    alert(`Event time is: ${e.detail}`);
+}
+
+const myCustomEvent = new CustomEvent('customTimeEvent', {
+    'detail': new Date()
+});
+
+// Fires the event
+document.body.dispatchEvent(myCustomEvent)
+```
+
+## AJAX
+
