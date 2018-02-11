@@ -14,7 +14,7 @@
 
 ## Sat 10 Feb 18
 
-Continued the React course. Practiced a lot and made 3 apps
+Continued the React course. learnt about events, component state, memory leaks, class components, and dynamic forms. Practiced a lot and made 3 apps
 
 + Count click events and display typed input
 
