@@ -49,6 +49,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
 | ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
 | ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
@@ -82,6 +83,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [JavaScript & jQuery]: http://javascriptbook.com/
 [Eloquent JavaScript]: http://eloquentjavascript.net/
 [Learn CSS Grid]: https://scrimba.com/g/gR8PTE
+[The Beginner's Guide to Reactjs]: https://egghead.io/courses/the-beginner-s-guide-to-reactjs
 
 [//]: # (Reference links to tutors)
 
@@ -96,6 +98,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Marijn Haverbeke]: https://twitter.com/MarijnJH
 [Per Harald Borgen]: https://twitter.com/perborgen
 [Scrimba]: https://scrimba.com/
+[Kent C Dodds]: https://egghead.io/instructors/kentcdodds
+[egghead.io]: https://egghead.io/
 
 ### Paths
 
