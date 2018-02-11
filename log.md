@@ -12,6 +12,14 @@
 
 ----------------------------------------------------------
 
+## Sun 11 Feb 18
+
+Finished the React Beginners course and started Cassidy William's course JavaScript and React for Developers. Learning about DOM, events and callbacks, AJAX, and JSON.
+
+[Log Index]
+
+----------------------------------------------------------
+
 ## Sat 10 Feb 18
 
 Continued the React course. learnt about events, component state, memory leaks, class components, and dynamic forms. Practiced a lot and made 3 apps
@@ -25,8 +33,6 @@ Continued the React course. learnt about events, component state, memory leaks, 
 + A dynamic input that shows an error message and has the submit disabled until error is resolved
 
 ![reactdynamicinput](https://user-images.githubusercontent.com/29199184/36066024-621bd8cc-0ea3-11e8-9d9d-5c6836711614.gif)
-
-
 
 [Log Index]
 
