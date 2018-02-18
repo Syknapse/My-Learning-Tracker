@@ -77,5 +77,109 @@ const myCustomEvent = new CustomEvent('customTimeEvent', {
 document.body.dispatchEvent(myCustomEvent)
 ```
 
-## AJAX
+## ES6
 
+### Default Values
+
+```js
+function someFunction(x = 10, y = 15) {
+    console.log(x + y)
+}
+// If argument is not provided, defaults are used
+someFunction(); // 35
+someFunction(0); // 15 (x=0, y=15)
+someFunction(2, 4); // 6
+```
+
+### Destructuring
+
+```diff
+// Object destructuring
+- let person = {
+-    first: 'Alberto',
+-    last: 'Jesus-Maria La Luz',
+-    city: 'Albacete',
+-    job: 'Doblaje de mierda'
+- };
+- let first = person.first; // then repeat for all the other keys
+- first // 'Alberto'
+
++ // Destructuring
++ let { first, last, city, job } = person
++ first // 'Alberto'
+```
+
+```js
+// default values can be used too
+let { first = 'Alberto', last, city, job} = person
+
+// Assign different variable names
+let { first: firstName, last: familyName, city, job} = person
+```
+
+```js
+// Array destructuring
+let arrayExample = [1, 2, 3]
+//destructure
+let [a, b, c] = arrayExample
+a // 1
+b // 2
+```
+
+```js
+// swapping variable values
+[y, z] = [z, y]
+```
+
+### Object literals
+
+To initialize an object
+
+```js
+let x = 'hello';
+let y = 'world';
+
+let z = {
+    x,
+    y
+}
+
+z // {x: "hello", y: "world"}
+
+// also
+let z = {
+    x() {
+        // do things
+    },
+    y() {
+        // do things
+    }
+}
+```
+
+### Template Literals
+
++ Defined by `Back-ticks`
++ Use interpolations `${foo}`
++ `foo` can be a variable `${fooIsVar}`
++ `foo` can be an expression `${a + b}`
++ `foo` can be a function `${func()}`
+
+### Arrow Functions
+
+```diff
+- function add(x, y) {
+-     return x + y;
+- }
+
++ var add = (x, y) => x + y;
+
+// also
++ var add = (x, y) => {
+    x + y;
++ };
+```
+
++ Always function expressions
++ Anonymous
++ redefine `this`
