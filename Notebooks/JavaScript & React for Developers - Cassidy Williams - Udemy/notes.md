@@ -176,7 +176,7 @@ let z = {
 
 // also
 + var add = (x, y) => {
-    x + y;
++     x + y;
 + };
 ```
 
