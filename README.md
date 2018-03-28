@@ -59,15 +59,22 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
 | ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
 | ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
+| ![In Progress][In Progress] |          | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
+| ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
 | ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                            |
 | ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
-| ![In Progress][In Progress] |          | [Learn CSS Grid]                                                | [Per Harald Borgen] - [Scrimba]             |
 | ![Soon][Soon]               |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
+| ![Soon][Soon]               |          | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
+| ![Soon][Soon]               |          | Read [You Don't know JavaScript]                                | Kyle Simpson                                |
+| ![Soon][Soon]               |          | [Learn CSS Grid]                                                | [Per Harald Borgen] - [Scrimba]             |
 | ![Soon][Soon]               |          | [The Web Developer Bootcamp - Back End]                         | Colt Steele - [Udemy]                       |
 
 [//]: # (Reference links to courses)
 
+[Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
+[JavaScript and React for Developers]: https://www.udemy.com/js-and-react-for-devs/
+[You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
 [Workflow Tools for Web Developers]: https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html
 [Learning Git and GitHub]: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
 [CSS Essential Training 3]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html
@@ -87,6 +94,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to tutors)
 
+[Cassidy Williams]: https://twitter.com/cassidoo
 [Christina Truong]: https://twitter.com/christinatruong
 [Lynda.com]: https://www.lynda.com
 [Ray Villalobos]: https://twitter.com/planetoftheweb
@@ -165,12 +173,12 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Follow developers you admire on social media
 * [ ] Read a book about coding
 * [x] Open your browser console
-* [ ] Get data from an API
+* [x] Get data from an API
 * [ ] Hide API keys from the public
 * [x] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [ ] Complete a technical interview
+* [x] Complete a technical interview
 * [ ] Participate in a hackathon
 * [x] Deploy a project
 * [ ] Ship your project to a store
