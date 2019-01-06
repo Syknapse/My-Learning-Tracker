@@ -20,23 +20,23 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Redux**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Backbone**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Git**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Git bash**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Bitbucket**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Gulp/Webpack**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Agile**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Stylus**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
@@ -66,7 +66,6 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
 | ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
 | ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |          | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
 | ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
 | ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                            |
 | ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
