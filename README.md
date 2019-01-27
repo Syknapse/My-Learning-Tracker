@@ -55,6 +55,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     | Jan 2019 | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
 | ![Completed][Completed]     | Aug 2018 | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
 | ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
 | ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
@@ -75,6 +76,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[JavaScript clean code guide]: https://github.com/ryanmcdermott/clean-code-javascript
 [Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
 [JavaScript and React for Developers]: https://www.udemy.com/js-and-react-for-devs/
 [You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
@@ -97,6 +99,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to tutors)
 
+[Ryan McDermott]: https://github.com/ryanmcdermott
 [Cassidy Williams]: https://twitter.com/cassidoo
 [Christina Truong]: https://twitter.com/christinatruong
 [Lynda.com]: https://www.lynda.com
@@ -116,6 +119,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 | Paths with multiple resources                             |            Author            |
 |:----------------------------------------------------------|:----------------------------:|
+| [33 concepts every JavaScript developer should know]      | [Leonardo Maldonado]         |
 | [Best JavaScript books, tutorials, courses & videos]      | [ReactDOM]                   |
 | [Learn to code in 2018]                                   | [Andrei Neagoie]             |
 | [Get Job ready - JavaScript Edition]                      | [P1xt]                       |
@@ -123,12 +127,14 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to paths)
 
+[33 concepts every JavaScript developer should know]: https://github.com/leonardomso/33-js-concepts
 [Best JavaScript books, tutorials, courses & videos]: https://reactdom.com/blog/javascript-books
 [Learn to code in 2018]: https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a
 [Get Job ready - JavaScript Edition]: https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md
 [Full Stack Web Developer Path]: https://github.com/shovanch/fullstack-web-developer-path
 
 [//]: # (Reference links to authors)
+[Leonardo Maldonado]: https://github.com/leonardomso
 [ReactDOM]: https://reactdom.com
 [Andrei Neagoie]: https://twitter.com/AndreiNeagoie
 [P1xt]: https://github.com/P1xt
