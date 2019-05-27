@@ -4,19 +4,19 @@
 |:---:|:---------------------------------------|
 |     |Learnt, thoughts, progress, ideas, links|
 
-## Full [Log Index]
+## Log Index
 
-[__************** 2018 Objectives **************__](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#28-dec-17)
-
-----------------------------------------------------------
+[__************** 2019 Objectives **************__](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#28-dec-17)
 
 ----------------------------------------------------------
 
-## Sun 11 Feb 18
+----------------------------------------------------------
 
-Finished the React Beginners course and started Cassidy William's course JavaScript and React for Developers. Learning about DOM, events and callbacks, AJAX, and JSON.
+## Mon 27 May 2019
 
-[Log Index]
+Finished android tribute page an FCC project challenge.
+
+[Android Tribute Page](https://johnfrail.github.io/android-tribute-page/)
 
 ----------------------------------------------------------
 
