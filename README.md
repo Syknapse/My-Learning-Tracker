@@ -182,7 +182,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
 * [x] Follow developers you admire on social media
-* [ ] Read a book about coding
+* [x] Read a book about coding
 * [x] Open your browser console
 * [x] Get data from an API
 * [ ] Hide API keys from the public
@@ -190,7 +190,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
 * [x] Complete a technical interview
-* [ ] Participate in a hackathon
+* [x] Participate in a hackathon
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
