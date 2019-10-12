@@ -6,15 +6,15 @@
 
 ## Full [Log Index]
 
-[__************** 2018 Objectives **************__](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#28-dec-17)
+[__************** 2019 Objectives **************__](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#28-dec-17)
 
 ----------------------------------------------------------
 
 ----------------------------------------------------------
 
-## Sun 11 Feb 18
+## Sat 12 Oct 19
 
-Finished the React Beginners course and started Cassidy William's course JavaScript and React for Developers. Learning about DOM, events and callbacks, AJAX, and JSON.
+Completed Galvanize coding challenge Wednesday. Starting projects.
 
 [Log Index]
 
