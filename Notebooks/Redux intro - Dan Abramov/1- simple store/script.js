@@ -32,4 +32,3 @@ decrement.addEventListener('click', () => {
     store.dispatch({ type: 'DECREMENT' })
     console.log('store.getState(): ', store.getState())
 })
-// continue from vid 8 with a new app using React
