@@ -1,0 +1,6 @@
+.item {
+    font-weight: bold;;
+}
+.completed {
+    text-decoration: line-through;
+}

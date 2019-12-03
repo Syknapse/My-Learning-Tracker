@@ -1,5 +1,6 @@
 // Reducer
 const todos = (state = [], action) => {
+    console.log('REDUCER action: ', action)
     switch (action.type) {
         case 'ADD_TODO':
             return [
@@ -10,6 +11,16 @@ const todos = (state = [], action) => {
                     completed: false,
                 }
             ]
+        case 'TOGGLE_TODO':
+            return state.map(todo => {
+                if (todo.id !== action.id) {
+                    return todo
+                }
+                return {
+                    ...todo,
+                    completed: !todo.completed
+                }
+            })
         default:
             return state
     }
@@ -27,20 +38,28 @@ const AddToDo = ({ onAddToDo }) => (
     </div>
 )
 
-const ToDoList = ({}) => {
+const ToDoList = ({ onToggleToDo }) => {
     const list = store.getState()
     return (
         <ul>
-            {list.map((item, i) => <li key={i}>{item.text}</li>)}
+            {list.map(item => (
+                <li
+                    key={item.id}
+                    onClick={() => onToggleToDo(item.id)}
+                    className={item.completed && 'completed' || 'item'}
+                >
+                    {item.text}
+                </li>
+            ))}
         </ul>
     )
 }
 
-const App = ({ onAddToDo }) => (
+const App = ({ onAddToDo, onToggleToDo }) => (
     <div>
         <h1>To do</h1>
         <AddToDo onAddToDo={onAddToDo} />
-        {store.getState().length > 0 && <ToDoList />}
+        {store.getState().length > 0 && <ToDoList onToggleToDo={onToggleToDo} />}
     </div>
 )
 
@@ -59,11 +78,21 @@ const addToDo = () => {
     }
 }
 
+const toggleToDo = (id) => {
+    store.dispatch(
+        {
+            type: 'TOGGLE_TODO',
+            id,
+        }
+    )
+}
+
 const render = () => {
     console.log('>>> store.getState(): ', store.getState())
     ReactDOM.render(
         <App
             onAddToDo={() => addToDo()}
+            onToggleToDo={id => toggleToDo(id)}
         />,
         root
     )
