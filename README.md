@@ -10,42 +10,46 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
-|               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
-|:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**React**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Redux**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Backbone**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Git**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Git bash**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bitbucket**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Gulp/Webpack**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Prettier**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**EsLint**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Agile**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Stylus**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM scripts**                   | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Husky**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Next.js**                       | ![done][done]     |               |               |                  |                |                 |
-|**Angular 4**                     | ![done][done]     |               |               |                  |                |          .      |
+|               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
+|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
+|**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
+|**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
+|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
+|**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**React**                         | ![done][done]     | ![done][done]          | ![done][done]    |
+|**StoryBook**                     | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Redux**                         | ![done][done]     | ![done][done]          |                  |
+|**Backbone**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Git bash**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Bitbucket**                     | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Gulp/Webpack**                  | ![done][done]     | ![done][done]          |                  |
+|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Agile**                         | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Jira**                          | ![done][done]     | ![done][done]          | ![done][done]    |
+|**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Yarn**                          | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Working with APIs**             | ![done][done]     | ![done][done]          | ![done][done]    |
+|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**PostCSS**                       | ![done][done]     | ![done][done]          |                  |
+|**Stylus**                        | ![done][done]     | ![done][done]          |                  |
+|**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Mobile first**                  | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Progressive Enhancement**       | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Markdown**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Website Building**              | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Publishing website**            | ![done][done]     | ![done][done]          |                  |
+|**Bootstrap**                     | ![done][done]     | ![done][done]          |                  |
+|**Command line**                  | ![done][done]     | ![done][done]          |                  |
+|**Node.js**                       | ![done][done]     | ![done][done]          |                  |
+|**NPM scripts**                   | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Husky**                         | ![done][done]     | ![done][done]          |                  |
+|**Open Source Contribution**      | ![done][done]     |                        |                  |
+|**Next.js**                       | ![done][done]     |                        |                  |
+|**Angular 4**                     | ![done][done]     |                        |                  |
 
 ----
 
@@ -59,7 +63,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] |            | Reading [You Don't know JavaScript]                             | [Kyle Simpson]                              |
+| ![In Progress][In Progress] |            | [Getting Started With Redux]                                    | [Dan Abramov] - [egghead.io]                |
+| ![Completed][Completed]     | Dec 2019   | [The Next.js Handbook]                                          | [Flavio Copes]                              |
 | ![Completed][Completed]     | Oct 2019   | [You Don't Know JavaScript]: Types & Grammar                    | [Kyle Simpson]                              |
 | ![Completed][Completed]     | Sept 2019  | [You Don't Know JavaScript]: Objects & Classes                  | [Kyle Simpson]                              |
 | ![Completed][Completed]     | Jul 2019   | [You Don't Know JavaScript]: Scope & Closure                    | [Kyle Simpson]                              |
@@ -84,6 +89,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[Getting Started With Redux]: https://egghead.io/courses/getting-started-with-redux
+[The Next.js Handbook]: https://www.freecodecamp.org/news/the-next-js-handbook/
 [The Complete JavaScript Handbook]: https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
 [JavaScript clean code guide]: https://github.com/ryanmcdermott/clean-code-javascript
 [Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
@@ -108,6 +115,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to tutors)
 
+[Dan Abramov]: https://twitter.com/dan_abramov
 [Kyle Simpson]: https://twitter.com/getify
 [Flavio Copes]: https://twitter.com/flaviocopes
 [Ryan McDermott]: https://github.com/ryanmcdermott
