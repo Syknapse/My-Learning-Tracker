@@ -1,0 +1,34 @@
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 80vw;
+}
+
+.active {
+    font-weight: bold;;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.filter {
+    margin-top: 32px;
+}
+
+.filter-buttons {
+    display: flex;
+    flex-direction: column;
+}
+
+.filter-buttons button {
+    margin: 8px 0;
+    height: 32px;
+}
