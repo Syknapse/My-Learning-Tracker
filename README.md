@@ -63,7 +63,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] |            | [Getting Started With Redux]                                    | [Dan Abramov] - [egghead.io]                |
+| ![Completed][Completed]     | Dec 2019   | [Getting Started With Redux]                                    | [Dan Abramov] - [egghead.io]                |
 | ![Completed][Completed]     | Dec 2019   | [The Next.js Handbook]                                          | [Flavio Copes]                              |
 | ![Completed][Completed]     | Oct 2019   | [You Don't Know JavaScript]: Types & Grammar                    | [Kyle Simpson]                              |
 | ![Completed][Completed]     | Sept 2019  | [You Don't Know JavaScript]: Objects & Classes                  | [Kyle Simpson]                              |

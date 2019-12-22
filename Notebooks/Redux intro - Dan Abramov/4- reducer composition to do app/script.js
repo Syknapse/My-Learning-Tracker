@@ -150,7 +150,7 @@ const App = ({ todos, visibilityFilter ,onAddToDo, onToggleToDo, onFilter }) => 
     </div>
 )
 
-// Logic
+// Actions
 const addToDo = () => {
     if (todoInput.value) {
         store.dispatch(
