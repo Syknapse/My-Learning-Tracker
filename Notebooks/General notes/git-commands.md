@@ -1,6 +1,6 @@
 # Git commands
 
-+ Create and checkout branch: 
++ Create and checkout branch (from current branch): 
 
 ```bash
 $ git checkout -b branch_name
