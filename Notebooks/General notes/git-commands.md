@@ -30,6 +30,12 @@ $ git mv old_filename new_filename
 $ git tag -a <tagname> -m '<message>'
 ```
 
++ Push tag to remote
+
+```bash
+$ git push origin <tagname>
+```
+
 + View tags: 
 
 ```bash
