@@ -12,10 +12,24 @@ $ git checkout -b branch_name
 $ git push -u origin branch_name
 ```
 
-+ checkout remote branch: 
++ Checkout remote branch: 
 
 ```bash
 $ git checkout -b branch_name origin/branch_name
+```
+
++ Delete branch: 
+
+Local
+
+```bash
+$  git branch -d branch_name
+```
+
+Remote
+
+```bash
+$  git push origin --delete branch_name
 ```
 
 + Change name (file or folder, for a folder the full route from where you are): 
