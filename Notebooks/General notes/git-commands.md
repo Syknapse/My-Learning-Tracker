@@ -20,15 +20,11 @@ $ git checkout -b branch_name origin/branch_name
 
 + Delete branch: 
 
-Local
-
 ```bash
+// Local
 $  git branch -d branch_name
-```
 
-Remote
-
-```bash
+// Remote
 $  git push origin --delete branch_name
 ```
 
@@ -68,3 +64,11 @@ $ git tag -n
 $ git tag -n <tagname>
 ```
 
++ Pushing new repo to remote
+
+```bash
+// Create repo in GitHub. Copy HTTP address
+// Create local repo. Initialise git (git init).
+$ git remote add origin <address>
+$ git push origin master
+```
