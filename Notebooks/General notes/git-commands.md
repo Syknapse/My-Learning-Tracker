@@ -70,5 +70,5 @@ $ git tag -n <tagname>
 // Create repo in GitHub. Copy HTTP address
 // Create local repo. Initialise git (git init).
 $ git remote add origin <address>
-$ git push origin master
+$ git push -u origin master
 ```
