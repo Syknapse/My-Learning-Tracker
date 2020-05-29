@@ -16,6 +16,8 @@ $ git push -u origin branch_name
 
 ```bash
 $ git checkout -b branch_name origin/branch_name
+or
+$ git checkout --track origin/branch_name
 ```
 
 + Delete branch: 
