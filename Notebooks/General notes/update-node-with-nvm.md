@@ -40,5 +40,7 @@ $ nvm use #.#.#
 ## Useful Links
 
 [NVM for Windows](https://github.com/coreybutler/nvm-windows)
+
 [Múltiples versiones de Node con NVM](https://medium.com/devschile/m%C3%BAltiples-versiones-de-node-con-nvm-63b2ac715c38)
+
 [Common Issues on Windows](https://github.com/coreybutler/nvm-windows/wiki/Common-Issues#spaces-in-pathnamesinstallation-root)
