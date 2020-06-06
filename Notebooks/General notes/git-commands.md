@@ -3,37 +3,37 @@
 + Create and checkout branch (from current branch): 
 
 ```bash
-$ git checkout -b branch_name
+$ git checkout -b <branch_name>
 ```
 
 + Push branch to remote and track: 
 
 ```bash
-$ git push -u origin branch_name
+$ git push -u origin <branch_name>
 ```
 
 + Checkout remote branch: 
 
 ```bash
-$ git checkout -b branch_name origin/branch_name
+$ git checkout -b <branch_name> origin/<branch_name>
 or
-$ git checkout --track origin/branch_name
+$ git checkout --track origin/<branch_name>
 ```
 
 + Delete branch: 
 
 ```bash
 // Local
-$  git branch -d branch_name
+$  git branch -d <branch_name>
 
 // Remote
-$  git push origin --delete branch_name
+$  git push origin --delete <branch_name>
 ```
 
 + Change name (file or folder, for a folder the full route from where you are): 
 
 ```bash
-$ git mv old_filename new_filename
+$ git mv <old_filename> <new_filename>
 ```
 
 + Create annotated tag: 
@@ -73,4 +73,10 @@ $ git tag -n <tagname>
 // Create local repo. Initialise git (git init).
 $ git remote add origin <address>
 $ git push -u origin master
+```
+
++ Cloning a remote repo to a new local directory
+
+```bash
+git clone <repo-url> <directory>
 ```
