@@ -12,12 +12,31 @@ $ git checkout -b <branch_name>
 $ git push -u origin <branch_name>
 ```
 
++ List branches: 
+
+```bash
+// Local only 
+$ git branch
+
+// Local and remote
+$ git branch -a
+
+// Only remote
+$ git branch -r
+```
+
 + Checkout remote branch: 
 
 ```bash
 $ git checkout -b <branch_name> origin/<branch_name>
 or
 $ git checkout --track origin/<branch_name>
+```
+
++ Merge branch (merges <branch> into current HEAD):
+
+```bash
+$ git merge <branch_name>
 ```
 
 + Delete branch: 
