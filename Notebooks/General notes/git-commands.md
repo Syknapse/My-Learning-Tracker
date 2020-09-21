@@ -39,6 +39,12 @@ $ git checkout --track origin/<branch_name>
 $ git merge <branch_name>
 ```
 
++ Abort merge
+
+```bash
+$ git merge --abort
+```
+
 + Delete branch: 
 
 ```bash
