@@ -33,6 +33,13 @@ or
 $ git checkout --track origin/<branch_name>
 ```
 
++ Interactive staging (accept or reject changes before staging)
+
+```bash
+$ git add -p
+// Then y/n t accept/reject changes
+```
+
 + Merge branch (merges <branch> into current HEAD):
 
 ```bash
