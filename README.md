@@ -70,7 +70,7 @@ Original version created by: [@Syknapse](https://github.com/Syknapse/My-Learning
 | ![Completed][Completed]     |    2020    | [Responsive Web Design]                                         | [Free Code Camp]                            |
 | ![In Progress][In Progress] |    2020    | [Experto en Administración Web]                                 | [Fatla.org]                                 |
 | ![Soon][Soon]               |            | [JavaScript Algorithms and Data Structures]                     | [Free Code Camp]                            |
-| ![Soon][Soon]               |            | [Full Stack Online]                                             | [App Academy Open]                          |
+| ![Soon][Soon]               |            | [Full Stack Online Curriculum]                                  | [App Academy Open]                          |
 
 [//]: # (Reference links to courses)
 
