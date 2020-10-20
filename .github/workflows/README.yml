@@ -22,3 +22,5 @@ jobs:
           LANG: es
           # ISO Langusge Code.
           # Supported Languages below
+      - name: Translate Readme Action
+        uses: dephraiim/translate-readme@v1
