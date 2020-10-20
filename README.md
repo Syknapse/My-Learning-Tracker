@@ -53,7 +53,7 @@ Original version created by: [@Syknapse](https://github.com/Syknapse/My-Learning
 |**Husky**                         |                   |                        |                  |
 |**Open Source Contribution**      |                   |                        |                  |
 |**Next.js**                       |                   |                        |                  |
-|**Angular 4**                     |                   |                        |                  |
+|**Angular 4**                     |                   |                        |                  |-->
 
 ----
 
@@ -88,7 +88,7 @@ Original version created by: [@Syknapse](https://github.com/Syknapse/My-Learning
 [Fatla.org]: https://www.fatla.org
 
 
-### Paths
+## Paths
 
 | Paths with multiple resources                             |            Author            |
 |:----------------------------------------------------------|:----------------------------:|
