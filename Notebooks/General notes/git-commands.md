@@ -43,7 +43,7 @@ $ git add -p
 + Merge branch (merges <branch> into current HEAD):
 
 ```bash
-$ git merge <branch_name>
+$ git merge --no-ff <branch_name>
 ```
 
 + Abort merge
