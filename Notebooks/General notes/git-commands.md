@@ -62,6 +62,16 @@ $  git branch -d <branch_name>
 $  git push origin --delete <branch_name>
 ```
 
++ Stash: 
+
+```bash
+$ git stash
+$ git stash pop // removes from stash and applies
+$ git stash apply // keeps in stash and applies
+$ git stash list // list all stashes
+$ git stash show // see files stashed
+```
+
 + Change name (file or folder, for a folder the full route from where you are): 
 
 ```bash
