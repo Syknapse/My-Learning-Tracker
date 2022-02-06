@@ -47,7 +47,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Publishing website**            | ![done][done]     | ![done][done]          |                  |
 |**Netlify**                       | ![done][done]     | ![done][done]          |                  |
 |**Bootstrap**                     | ![done][done]     | ![done][done]          |                  |
-|**Command line**                  | ![done][done]     | ![done][done]          |                  |
+|**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Node.js**                       | ![done][done]     | ![done][done]          |                  |
 |**Husky**                         | ![done][done]     | ![done][done]          |                  |
 |**Open Source Contribution**      | ![done][done]     |                        |                  |
@@ -65,6 +65,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     | Jan 2022   | [Dotfiles from start to finish-ish]                             | [Patrick McDonald]                          |
 | ![Completed][Completed]     | Dec 2019   | [Getting Started With Redux]                                    | [Dan Abramov] - [egghead.io]                |
 | ![Completed][Completed]     | Dec 2019   | [The Next.js Handbook]                                          | [Flavio Copes]                              |
 | ![Completed][Completed]     | Oct 2019   | [You Don't Know JavaScript]: Types & Grammar                    | [Kyle Simpson]                              |
@@ -91,6 +92,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[Dotfiles from start to finish-ish]: https://www.udemy.com/course/dotfiles-from-start-to-finish-ish/
 [Getting Started With Redux]: https://egghead.io/courses/getting-started-with-redux
 [The Next.js Handbook]: https://www.freecodecamp.org/news/the-next-js-handbook/
 [The Complete JavaScript Handbook]: https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
@@ -117,6 +119,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to tutors)
 
+[Patrick McDonald]: https://www.udemy.com/user/patrick-mcdonald-8/
 [Dan Abramov]: https://twitter.com/dan_abramov
 [Kyle Simpson]: https://twitter.com/getify
 [Flavio Copes]: https://twitter.com/flaviocopes
@@ -163,25 +166,16 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 ----
 
-## Highlights
-
-The most interesting of what I'm watching, reading, and doing:
-
-[**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/)
-
-And here is a chronological log of the highlights of my learning:
-
-[**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md)
-
-----
-
 ## Interests
 
 I'm currently interested in/excited about:
 
-+ React
-+ JavaScript best practice
-+ Object Oriented Programming
++ Typescript
++ Testing
++ Node and the MERN stack
++ .dotfiles
++ Docker
++ CI pipelin
 
 ----
 
@@ -202,7 +196,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Read a book about coding
 * [x] Open your browser console
 * [x] Get data from an API
-* [ ] Hide API keys from the public
+* [x] Hide API keys from the public
 * [x] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
