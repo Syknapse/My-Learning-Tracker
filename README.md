@@ -65,6 +65,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     | Mar 2022   | [JavaScript: The Hard Parts]                                    | [Will Sentence]                             |
 | ![Completed][Completed]     | Jan 2022   | [Dotfiles from start to finish-ish]                             | [Patrick McDonald]                          |
 | ![Completed][Completed]     | Dec 2019   | [Getting Started With Redux]                                    | [Dan Abramov] - [egghead.io]                |
 | ![Completed][Completed]     | Dec 2019   | [The Next.js Handbook]                                          | [Flavio Copes]                              |
@@ -92,6 +93,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[JavaScript: The Hard Parts]: https://frontendmasters.com/courses/javascript-hard-parts-v2/
 [Dotfiles from start to finish-ish]: https://www.udemy.com/course/dotfiles-from-start-to-finish-ish/
 [Getting Started With Redux]: https://egghead.io/courses/getting-started-with-redux
 [The Next.js Handbook]: https://www.freecodecamp.org/news/the-next-js-handbook/
@@ -119,6 +121,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to tutors)
 
+[Will Sentence]: https://twitter.com/willsentance
 [Patrick McDonald]: https://www.udemy.com/user/patrick-mcdonald-8/
 [Dan Abramov]: https://twitter.com/dan_abramov
 [Kyle Simpson]: https://twitter.com/getify
