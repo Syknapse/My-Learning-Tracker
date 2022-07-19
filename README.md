@@ -21,6 +21,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**HTML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**TypeScript**                    | ![done][done]     | ![done][done]          |                  |
 |**StoryBook**                     | ![done][done]     | ![done][done]          | ![done][done]    |
 |**MJML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -65,6 +66,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![In Progress][In Progress] | Jul 2022   | [Understanding TypeScript]                                      | [Maximilian Schwarzmüller]                  |
 | ![Completed][Completed]     | Mar 2022   | [JavaScript: The Hard Parts]                                    | [Will Sentence]                             |
 | ![Completed][Completed]     | Jan 2022   | [Dotfiles from start to finish-ish]                             | [Patrick McDonald]                          |
 | ![Completed][Completed]     | Dec 2019   | [Getting Started With Redux]                                    | [Dan Abramov] - [egghead.io]                |
@@ -93,6 +95,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[Understanding TypeScript]: https://www.udemy.com/course/understanding-typescript/
 [JavaScript: The Hard Parts]: https://frontendmasters.com/courses/javascript-hard-parts-v2/
 [Dotfiles from start to finish-ish]: https://www.udemy.com/course/dotfiles-from-start-to-finish-ish/
 [Getting Started With Redux]: https://egghead.io/courses/getting-started-with-redux
@@ -121,6 +124,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to tutors)
 
+[Maximilian Schwarzmüller]: https://twitter.com/maxedapps
 [Will Sentence]: https://twitter.com/willsentance
 [Patrick McDonald]: https://www.udemy.com/user/patrick-mcdonald-8/
 [Dan Abramov]: https://twitter.com/dan_abramov
