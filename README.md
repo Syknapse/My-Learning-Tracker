@@ -66,7 +66,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] | Jul 2022   | [Understanding TypeScript]                                      | [Maximilian Schwarzmüller]                  |
+| ![Completed][Completed]     | Sept 2022  | [Understanding TypeScript]                                      | [Maximilian Schwarzmüller]                  |
 | ![Completed][Completed]     | Mar 2022   | [JavaScript: The Hard Parts]                                    | [Will Sentence]                             |
 | ![Completed][Completed]     | Jan 2022   | [Dotfiles from start to finish-ish]                             | [Patrick McDonald]                          |
 | ![Completed][Completed]     | Dec 2019   | [Getting Started With Redux]                                    | [Dan Abramov] - [egghead.io]                |
