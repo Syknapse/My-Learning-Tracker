@@ -66,6 +66,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     | Sept 2022  | [The Hard Parts of Servers and Node.js]                         | [Will Sentence]                            |
 | ![Completed][Completed]     | Sept 2022  | [Understanding TypeScript]                                      | [Maximilian Schwarzmüller]                  |
 | ![Completed][Completed]     | Mar 2022   | [JavaScript: The Hard Parts]                                    | [Will Sentence]                             |
 | ![Completed][Completed]     | Jan 2022   | [Dotfiles from start to finish-ish]                             | [Patrick McDonald]                          |
@@ -95,6 +96,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[The Hard Parts of Servers and Node.js]: https://frontendmasters.com/courses/servers-node-js
 [Understanding TypeScript]: https://www.udemy.com/course/understanding-typescript/
 [JavaScript: The Hard Parts]: https://frontendmasters.com/courses/javascript-hard-parts-v2/
 [Dotfiles from start to finish-ish]: https://www.udemy.com/course/dotfiles-from-start-to-finish-ish/
