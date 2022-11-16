@@ -22,6 +22,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**CSS**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**TypeScript**                    | ![done][done]     | ![done][done]          |                  |
+|**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**StoryBook**                     | ![done][done]     | ![done][done]          | ![done][done]    |
 |**MJML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -29,28 +30,27 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Gulp/Webpack**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Yarn**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**PostCSS**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Markdown**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Node.js**                       | ![done][done]     | ![done][done]          |                  |
 |**Agile**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Jira**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Bitbucket**                     | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Mobile first**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Progressive Enhancement**       | ![done][done]     | ![done][done]          | ![done][done]    |
+|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**PostCSS**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Accessibility**                 | ![done][done]     | ![done][done]          |                  |
 |**Working with APIs**             | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Backbone**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Stylus**                        | ![done][done]     | ![done][done]          |                  |
+|**Husky**                         | ![done][done]     | ![done][done]          |                  |
 |**Website Building**              | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Publishing website**            | ![done][done]     | ![done][done]          |                  |
 |**Netlify**                       | ![done][done]     | ![done][done]          |                  |
+|**Backbone**                      | ![done][done]     | ![done][done]          |                  |
+|**jQuery**                        | ![done][done]     | ![done][done]          |                  |
 |**Bootstrap**                     | ![done][done]     | ![done][done]          |                  |
-|**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Node.js**                       | ![done][done]     | ![done][done]          |                  |
-|**Husky**                         | ![done][done]     | ![done][done]          |                  |
+|**Stylus**                        | ![done][done]     | ![done][done]          |                  |
 |**Open Source Contribution**      | ![done][done]     |                        |                  |
 |**Angular 4**                     | ![done][done]     |                        |                  |
 
@@ -66,7 +66,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Sept 2022  | [The Hard Parts of Servers and Node.js]                         | [Will Sentence]                            |
+| ![Completed][Completed]     | Nov 2022   | [JavaScript: The New Hard Parts]                                | [Will Sentence]                             |
+| ![Completed][Completed]     | Sept 2022  | [The Hard Parts of Servers and Node.js]                         | [Will Sentence]                             |
 | ![Completed][Completed]     | Sept 2022  | [Understanding TypeScript]                                      | [Maximilian Schwarzmüller]                  |
 | ![Completed][Completed]     | Mar 2022   | [JavaScript: The Hard Parts]                                    | [Will Sentence]                             |
 | ![Completed][Completed]     | Jan 2022   | [Dotfiles from start to finish-ish]                             | [Patrick McDonald]                          |
@@ -96,6 +97,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[JavaScript: The New Hard Parts]: https://frontendmasters.com/courses/javascript-new-hard-parts/
 [The Hard Parts of Servers and Node.js]: https://frontendmasters.com/courses/servers-node-js
 [Understanding TypeScript]: https://www.udemy.com/course/understanding-typescript/
 [JavaScript: The Hard Parts]: https://frontendmasters.com/courses/javascript-hard-parts-v2/
@@ -183,8 +185,6 @@ I'm currently interested in/excited about:
 + Testing
 + Node and the MERN stack
 + .dotfiles
-+ Docker
-+ CI pipelin
 
 ----
 
@@ -219,7 +219,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 ----
 
-If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
+If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star :)
 
 **You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
 
