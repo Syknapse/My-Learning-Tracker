@@ -66,6 +66,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     | Nov 2022   | [TypeScript Fundamentals v3]                                    | [Mike North]                                |
 | ![Completed][Completed]     | Nov 2022   | [JavaScript: The New Hard Parts]                                | [Will Sentence]                             |
 | ![Completed][Completed]     | Sept 2022  | [The Hard Parts of Servers and Node.js]                         | [Will Sentence]                             |
 | ![Completed][Completed]     | Sept 2022  | [Understanding TypeScript]                                      | [Maximilian Schwarzmüller]                  |
@@ -97,6 +98,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[TypeScript Fundamentals v3]: https://frontendmasters.com/courses/typescript-v3/
 [JavaScript: The New Hard Parts]: https://frontendmasters.com/courses/javascript-new-hard-parts/
 [The Hard Parts of Servers and Node.js]: https://frontendmasters.com/courses/servers-node-js
 [Understanding TypeScript]: https://www.udemy.com/course/understanding-typescript/
@@ -128,6 +130,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to tutors)
 
+[Mike North]: https://twitter.com/michaellnorth
 [Maximilian Schwarzmüller]: https://twitter.com/maxedapps
 [Will Sentence]: https://twitter.com/willsentance
 [Patrick McDonald]: https://www.udemy.com/user/patrick-mcdonald-8/
