@@ -13,6 +13,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**React**                         | ![done][done]     | ![done][done]          | ![done][done]    |
+|**TypeScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**React hooks**                   | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Redux**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -21,7 +22,6 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**HTML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**TypeScript**                    | ![done][done]     | ![done][done]          |                  |
 |**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**StoryBook**                     | ![done][done]     | ![done][done]          | ![done][done]    |
 |**MJML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -66,6 +66,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     | Oct 2023   | [Harvard CS50]                                                  | Harvard University                          |
 | ![Completed][Completed]     | Dec 2022   | [React and TypeScript]                                          | [Steve Kinney]                              |
 | ![Completed][Completed]     | Nov 2022   | [TypeScript Fundamentals v3]                                    | [Mike North]                                |
 | ![Completed][Completed]     | Nov 2022   | [JavaScript: The New Hard Parts]                                | [Will Sentence]                             |
@@ -99,6 +100,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[Harvard CS50]: https://youtu.be/8mAITcNt710?si=6BavtRpgNdc2HnZS
 [React and TypeScript]: https://frontendmasters.com/courses/react-typescript/
 [TypeScript Fundamentals v3]: https://frontendmasters.com/courses/typescript-v3/
 [JavaScript: The New Hard Parts]: https://frontendmasters.com/courses/javascript-new-hard-parts/
