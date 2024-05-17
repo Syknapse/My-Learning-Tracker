@@ -167,6 +167,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | [Learn to code in 2018]                                   | [Andrei Neagoie]             |
 | [Get Job ready - JavaScript Edition]                      | [P1xt]                       |
 | [Full Stack Web Developer Path]                           | [Shovan Chatterjee]          |
+| [Full Stack Developer Roadmap]                            | [Scaler Academy]          |
 
 [//]: # (Reference links to paths)
 
@@ -175,6 +176,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Learn to code in 2018]: https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a
 [Get Job ready - JavaScript Edition]: https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md
 [Full Stack Web Developer Path]: https://github.com/shovanch/fullstack-web-developer-path
+[Full Stack Developer Roadmap]: https://www.scaler.com/blog/full-stack-developer-roadmap/
 
 [//]: # (Reference links to authors)
 [Leonardo Maldonado]: https://github.com/leonardomso
@@ -182,6 +184,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Andrei Neagoie]: https://twitter.com/AndreiNeagoie
 [P1xt]: https://github.com/P1xt
 [Shovan Chatterjee]: https://github.com/shovanch
+[Scaler Academy]: https://github.com/scaleracademy
 
 ----
 
