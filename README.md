@@ -42,6 +42,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**DayJS**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**React Hook Form**               | ![done][done]     | ![done][done]          | ![done][done]    |
+|**React Query**                   | ![done][done]     | ![done][done]          |                  |
 |**Gulp/Webpack**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Agile**                         | ![done][done]     | ![done][done]          | ![done][done]    |
