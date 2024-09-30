@@ -12,30 +12,40 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
+|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**React**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**TypeScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**React hooks**                   | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Redux**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Next.js**                       | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Jest**                          | ![done][done]     | ![done][done]          |                  |
+|**React Testing Library**         | ![done][done]     | ![done][done]          |                  |
+|**Redux**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**HTML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Yarn**                          | ![done][done]     | ![done][done]          | ![done][done]    |
+|**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Auth0**                         | ![done][done]     | ![done][done]          | ![done][done]    |
+|**KrakenD**                       | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Material UI**                   | ![done][done]     | ![done][done]          | ![done][done]    |
+|**GoogleMaps API**                | ![done][done]     | ![done][done]          | ![done][done]    |
 |**StoryBook**                     | ![done][done]     | ![done][done]          | ![done][done]    |
 |**MJML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Gulp/Webpack**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Yarn**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Markdown**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Node.js**                       | ![done][done]     | ![done][done]          |                  |
+|**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Lokalise**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
+|**React hooks**                   | ![done][done]     | ![done][done]          | ![done][done]    |
+|**React Context**                 | ![done][done]     | ![done][done]          |                  |
+|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**DayJS**                         | ![done][done]     | ![done][done]          | ![done][done]    |
+|**React Hook Form**               | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Gulp/Webpack**                  | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Agile**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Jira**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Bitbucket**                     | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Mobile first**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Progressive Enhancement**       | ![done][done]     | ![done][done]          | ![done][done]    |
