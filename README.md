@@ -77,6 +77,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     | Jan 2024   | [Introduction to Next.js, v3]                                   | [Scott Moss]                                |
 | ![Completed][Completed]     | Oct 2023   | [Harvard CS50]                                                  | Harvard University                          |
 | ![Completed][Completed]     | Dec 2022   | [React and TypeScript]                                          | [Steve Kinney]                              |
 | ![Completed][Completed]     | Nov 2022   | [TypeScript Fundamentals v3]                                    | [Mike North]                                |
@@ -111,6 +112,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[Introduction to Next.js, v3]: https://frontendmasters.com/courses/next-js-v3/
 [Harvard CS50]: https://youtu.be/8mAITcNt710?si=6BavtRpgNdc2HnZS
 [React and TypeScript]: https://frontendmasters.com/courses/react-typescript/
 [TypeScript Fundamentals v3]: https://frontendmasters.com/courses/typescript-v3/
@@ -145,6 +147,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to tutors)
 
+[Scott Moss]: https://frontendmasters.com/teachers/scott-moss/
 [Steve Kinney]: https://twitter.com/stevekinney
 [Mike North]: https://twitter.com/michaellnorth
 [Maximilian Schwarzmüller]: https://twitter.com/maxedapps
