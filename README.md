@@ -77,7 +77,12 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Jan 2024   | [Introduction to Next.js, v3]                                   | [Scott Moss]                                |
+| ![In Progress][In Progress] | Jan 2025   | [Web Security]                                                  | [Steve Kinney]                              |
+| ![Completed][Completed]     | Jan 2025   | [React Performance]                                             | [Steve Kinney]                              |
+| ![Completed][Completed]     | Jan 2025   | [Web App Accessibility]                                         | [Marcy Sutton Todd]                         |
+| ![Completed][Completed]     | Jan 2025   | [Developer Soft Skills and Testing]                             | [Francesca Sadikin]                         |
+| ![Completed][Completed]     | Jan 2025   | [Testing Fundamentals]                                          | [Steve Kinney]                              |
+| ![Completed][Completed]     | Jan 2025   | [Introduction to Next.js, v3]                                   | [Scott Moss]                                |
 | ![Completed][Completed]     | Oct 2023   | [Harvard CS50]                                                  | Harvard University                          |
 | ![Completed][Completed]     | Dec 2022   | [React and TypeScript]                                          | [Steve Kinney]                              |
 | ![Completed][Completed]     | Nov 2022   | [TypeScript Fundamentals v3]                                    | [Mike North]                                |
@@ -112,6 +117,11 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[Web Security]: https://frontendmasters.com/courses/web-security-v2/
+[React Performance]: https://frontendmasters.com/courses/react-performance/
+[Web App Accessibility]: https://frontendmasters.com/courses/react-accessibility/
+[Developer Soft Skills and Testing]: https://frontendmasters.com/courses/dev-soft-skills/
+[Testing Fundamentals]: https://frontendmasters.com/courses/testing/
 [Introduction to Next.js, v3]: https://frontendmasters.com/courses/next-js-v3/
 [Harvard CS50]: https://youtu.be/8mAITcNt710?si=6BavtRpgNdc2HnZS
 [React and TypeScript]: https://frontendmasters.com/courses/react-typescript/
@@ -147,6 +157,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to tutors)
 
+[Marcy Sutton Todd]: https://frontendmasters.com/teachers/marcy-sutton/
+[Francesca Sadikin]: https://frontendmasters.com/teachers/francesca-sadikin/
 [Scott Moss]: https://frontendmasters.com/teachers/scott-moss/
 [Steve Kinney]: https://twitter.com/stevekinney
 [Mike North]: https://twitter.com/michaellnorth
